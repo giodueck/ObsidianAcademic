@@ -1,7 +1,7 @@
 # Computer network
-A set of interconnected computing devices which can exchange information using a [[Protocol]].
+A set of interconnected computing devices which can *exchange information* using a [[Protocol]].
 
-Networks evolved to solve the problem of sharing resources within organizations, e.g. a shared printer, and to overcome the limitations of physical media like floppy discs.
+Networks evolved to solve the problem of *sharing resources* within organizations, e.g. a shared printer, and to *overcome the limitations of physical media* like floppy discs.
 
 ### Two general types:
 - [[LAN]]: Local Area Network
