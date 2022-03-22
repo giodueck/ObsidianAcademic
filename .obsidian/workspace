@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "5efba0e804f3cd8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d920cf63a84a709",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f109a1df2337c96f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e83ff316c6390faa",
+        "type": "tabs",
+        "dimension": 59.35897435897436,
+        "children": [
+          {
+            "id": "6dbc27205106e356",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3aa663adcb52545d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a9f69b56d8d0be1",
+        "type": "tabs",
+        "dimension": 40.64102564102564,
+        "children": [
+          {
+            "id": "73d7a86ea191b5bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe51fbf17d4ac71e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f34054c70acab5f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be8438d2dc199719",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a5fe8ab8a7122ad",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "1d920cf63a84a709",
+  "lastOpenFiles": [
+    "Index.md",
+    "Computer Science/Networking/Concepts/Networks/NIC.md",
+    "Computer Science/Networking/Concepts/Networks/MAC.md",
+    "Computer Science/Networking/Concepts/Networks/WAN.md",
+    "Computer Science/Networking/Networking MOC.md",
+    "Computer Science/Computer Science MOC.md",
+    "Computer Science/Networking/Concepts/Cloud.md",
+    "Computer Science/Networking/Concepts/Network topology.md",
+    "Computer Science/Networking/Index.md",
+    "Computer Science/Networking/General/Computer network.md"
+  ]
+}
