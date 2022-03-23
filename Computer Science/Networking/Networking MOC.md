@@ -8,10 +8,12 @@
 - [[Bandwidth]]
 - [[Network topology]]
 - [[Cloud]]
+- [[Structured cabling]]
 ### Networks
 - [[LAN]] & [[WAN]]
 - [[NIC]]
 - [[MAC]]
+- [[UTP]]
 ### Models
 - [[OSI]]
 - [[TCP-IP]]

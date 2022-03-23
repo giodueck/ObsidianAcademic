@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Networking/General/Computer network.md",
-            "mode": "preview"
+            "file": "Computer Science/Networking/Concepts/Networks/UTP.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Networking/General/Computer network.md",
+                "file": "Computer Science/Networking/Concepts/Networks/UTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "1d920cf63a84a709",
   "lastOpenFiles": [
-    "Computer Science/Networking/General/Computer network.md",
+    "Computer Science/Networking/Concepts/Networks/UTP.md",
     "Computer Science/Networking/Networking MOC.md",
+    "Computer Science/Networking/Concepts/Structured cabling.md",
     "Computer Science/Computer Science MOC.md",
     "Index.md",
+    "Computer Science/Networking/General/Computer network.md",
     "Computer Science/Networking/General/Protocol.md",
     "Computer Science/Networking/Concepts/Models/TCP-IP.md",
     "Computer Science/Networking/Concepts/Networks/NIC.md",
-    "Computer Science/Networking/Concepts/Networks/MAC.md",
-    "Computer Science/Networking/Concepts/Networks/WAN.md",
-    "Computer Science/Networking/Concepts/Cloud.md"
+    "Computer Science/Networking/Concepts/Networks/MAC.md"
   ]
 }
