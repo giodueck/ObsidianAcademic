@@ -9,11 +9,14 @@
 - [[Network topology]]
 - [[Cloud]]
 - [[Structured cabling]]
+- [[Wireless]]
+
 ### Networks
 - [[LAN]] & [[WAN]]
 - [[NIC]]
 - [[MAC]]
 - [[UTP]]
+
 ### Models
 - [[OSI]]
 - [[TCP-IP]]
