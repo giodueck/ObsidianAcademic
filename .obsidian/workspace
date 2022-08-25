@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1d920cf63a84a709",
+        "id": "37cf38139de4cd59",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Networking/Networking MOC.md",
-            "mode": "source"
+            "file": "Classes/Classes MOC.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Networking/Networking MOC.md",
+                "file": "Classes/Classes MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1d920cf63a84a709",
+  "active": "7a5fe8ab8a7122ad",
   "lastOpenFiles": [
-    "Computer Science/Networking/Networking MOC.md",
-    "Computer Science/Networking/Concepts/Wireless.md",
-    "Templates/Concept.md",
-    "Index.md",
-    "Computer Science/Computer Science MOC.md",
-    "Computer Science/Networking/Concepts/Structured cabling.md",
-    "Computer Science/Networking/General/Internet.md",
-    "Computer Science/Networking/Concepts/Networks/UTP.md",
-    "Computer Science/Networking/Concepts/Models/OSI.md",
-    "Computer Science/Networking/General/Computer network.md"
+    "Classes/Informatica 1/FA - Marble rolling game.md",
+    "Classes/Informatica 1/FA - Ejercicio tipo Examen.md",
+    "Classes/Informatica 1/Finite Automata.md",
+    "Classes/Classes MOC.md",
+    "Classes/Informatica 1/FA - Definiciones formales.md",
+    "Classes/Informatica 1/Clase - Cadenas y lenguajes.md",
+    "Classes/Informatica 1/FA - Demostracion en clase.md",
+    "LaTeX Cheatsheet.md",
+    "img/Pasted image 20220824150809.png",
+    "Templates/Note header.md"
   ]
 }

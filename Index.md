@@ -5,5 +5,10 @@ But these concept notes need organization, start searching here.
 
 [[Computer Science MOC]]
 
+[[Classes MOC]]
+
+## Useful
+[[LaTeX Cheatsheet]]
+
 ---
 #MOC 
