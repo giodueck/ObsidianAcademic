@@ -65,7 +65,7 @@ $\forall n > 0, \delta^*(q_0, a^{2n}) = q_2$
 
 **Prueba inductiva**
 *Caso inductivo*
-$\delta^*(q_0, a^{2n}) = q_2 \rightarrow \delta^*(q_0, a^{2(n+1)} = q_2$
+$\delta^*(q_0, a^{2n}) = q_2 \rightarrow \delta^*(q_0, a^{2(n+1)}) = q_2$
 $\delta^*(q_0, a^{2(n+1)} = \delta^*(q_0, a^{2n}aa = \delta^*($**$\delta^*(q_0, a^{2n})$**$, aa)$
 $= \delta^*(q_2, aa)$
 $= \delta(\delta(q_2, a), a) = \delta(q_1, a) = q_2$

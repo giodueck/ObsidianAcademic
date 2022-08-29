@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Classes MOC.md",
+            "file": "FA - Propiedades.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "0f4082506c8120e6"
+      },
+      {
+        "id": "e2500a897a9f224f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FA - Propiedades.md",
             "mode": "preview",
             "source": true
           }
-        }
+        },
+        "group": "0f4082506c8120e6"
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe51fbf17d4ac71e",
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Classes MOC.md",
+                "file": "FA - Propiedades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +126,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7a5fe8ab8a7122ad",
+  "active": "37cf38139de4cd59",
   "lastOpenFiles": [
-    "Classes/Informatica 1/FA - Marble rolling game.md",
-    "Classes/Informatica 1/FA - Ejercicio tipo Examen.md",
-    "Classes/Informatica 1/Finite Automata.md",
     "Classes/Classes MOC.md",
+    "Classes/Informatica 1/Introduccion.md",
+    "Classes/Informatica 1/FA - Ejercicio tipo Examen.md",
+    "Classes/Informatica 1/FA - Marble rolling game.md",
+    "Classes/Informatica 1/Finite Automata.md",
     "Classes/Informatica 1/FA - Definiciones formales.md",
     "Classes/Informatica 1/Clase - Cadenas y lenguajes.md",
     "Classes/Informatica 1/FA - Demostracion en clase.md",
     "LaTeX Cheatsheet.md",
-    "img/Pasted image 20220824150809.png",
-    "Templates/Note header.md"
+    "img/Pasted image 20220824150809.png"
   ]
 }

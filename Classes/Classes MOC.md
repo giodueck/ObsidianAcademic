@@ -6,6 +6,7 @@
 	- [[FA - Definiciones formales]]
 	- [[FA - Ejercicio tipo Examen]]
 	- [[FA - Marble rolling game]]
+	- [[FA - Propiedades]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]

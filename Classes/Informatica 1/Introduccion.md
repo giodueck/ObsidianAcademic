@@ -22,9 +22,11 @@ Computabilidad | Limites de la computacion | 7/10 | 30 | Conceptos matematicos r
 Complejidad | Analisis de algoritmos | 5/10 | 20 | Poca complejidad si se manejan los algoritmos
 
 ## Evaluacion
-- Parcial 30: FA
-- Parcial 30: PDA y TM
-- Final 40: Computabilidad y Complejidad (no global)
+Tipo | Puntaje | Temario | Fecha
+--- | --- | --- | ---
+Parcial | 30 | FA | 27-09-2022
+Parcial | 30 | PDA y TM | 24-10-2022
+Final | 40 | Computabilidad y Complejidad (no global)
 
 ## Bibliografia
 Area | Principal | Secundario | Terciario
