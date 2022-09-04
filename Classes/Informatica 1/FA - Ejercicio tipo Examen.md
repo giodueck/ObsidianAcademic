@@ -10,7 +10,7 @@ b) Demostrar **formalmente** que el diseño presentado en la parte a) es correct
 *Criterio de evaluacion:* En un examen, la puntuacion aproximada seria de 30% para la parte a) y para la parte b) de 70% multiplicada por la puntuacion dobtenida en la parte a).
 
 ## Parte a)
-![[Pasted image 20220824150809.png]]
+![[info1-duplas-a-triplas-b.png]]
 
 ## Parte b)
 $L(A) = B$

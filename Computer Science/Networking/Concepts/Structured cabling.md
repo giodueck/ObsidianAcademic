@@ -23,15 +23,15 @@ Needs to be...
 
 ## Standards
 Several standards exist to define the structure of these systems, these include 
-- [[ANSI]]
-- [[TIA]]
-- [[EIA]]
+- ANSI
+- TIA
+- EIA
 among others.
 
 ## Components
 1. *Building connections (Entrance facilities)* is where the telephone company or ISP ends and connects to the customer's network, which begin here.
 2. *Equipment rooms* house equipment and wiring consolidation points that serve the users in the building or campus.
 3. *Backbone cabling* (vertical) is the interconnections and intraconnections in and between facilities' telecoms rooms and equipment rooms.
-4. *Telecommunications rooms* ([[Rack|racks]]) connect backbone cabling with horizontal cabling.
+4. *Telecommunications rooms* (racks) connect backbone cabling with horizontal cabling.
 5. *Horizontal cabling* standard cabling inside a facility that connects telecoms rooms to individual outlets in work areas. Usually the cabling is [[UTP]].
 6. *Work-area* components connect end-users to horizontal cabling.
