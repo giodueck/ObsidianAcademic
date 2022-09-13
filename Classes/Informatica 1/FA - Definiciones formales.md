@@ -9,7 +9,7 @@ $A = (Q, \Sigma, \delta, q_0, F)$
 Q: A finite set of states
 $\Sigma$: A finite input alphabet
 $q_0$: Initial state in Q
-F: A set of final/acceptinf states, which is a subset of Q ($F \subseteq Q$)
+F: A set of final/accepting states, which is a subset of Q ($F \subseteq Q$)
 $\delta$: A transition function (next-state function)
 
 $\delta: (Q \times \Sigma) \rightarrow Q$

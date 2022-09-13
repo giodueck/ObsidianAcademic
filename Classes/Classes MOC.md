@@ -9,11 +9,20 @@
 	- [[FA - Propiedades]]
 		- [[FA - Propiedades#Concepto de Cerradura Closure]]
 	- [[FA - Minimizacion de DFA]]
+	- [[NFA - FA No deterministico]]
+	- [[FA vs DFA - Equivalencia]]
+	- [[FA - FA-nula]]
+	- [[FA - Limitaciones]]
+- [[Regular Expressions]]
+- [[PDA - Introduction]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]
 - [[Ejercicios Assembly]]
 - [[Subrutinas en Assembly]]
+- [[Project Euler on ARM Cortex-M4F]]
+- [[TP Final - Brainstorming]]
+- [[TP Final - Specifications]]
 
 ## Redes de Computadoras 2
 - [[Multicasting]]

@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "4445eecad09d3966",
+        "id": "7d15619b17e95f60",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Classes MOC.md",
+            "file": "PDA - Introduction.md",
             "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "2c86cf6a2a366fe6"
+      },
+      {
+        "id": "d00fc6e38491f976",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PDA - Introduction.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "2c86cf6a2a366fe6"
       }
     ],
     "direction": "vertical"
@@ -71,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe51fbf17d4ac71e",
@@ -87,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Classes MOC.md",
+                "file": "PDA - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4445eecad09d3966",
+  "active": "7d15619b17e95f60",
   "lastOpenFiles": [
-    "Index.md",
     "Classes/Classes MOC.md",
-    "img/info1-duplas-a-triplas-b.png",
-    "Computer Science/Networking/Concepts/Structured cabling.md",
-    "Computer Science/Networking/Concepts/Networks/UTP.md",
-    "ANSI.md",
-    "Electromagnetism.md",
-    "test.md",
+    "Classes/Informatica 1/Regular Expressions.md",
+    "Classes/Informatica 1/Introduccion.md",
     "LaTeX Cheatsheet.md",
-    "Templates/LaTeX - leftrightarrow.md"
+    "Classes/Informatica 1/FA - Limitaciones.md",
+    "Classes/Informatica 1/FA - FA-nula.md",
+    "Classes/Informatica 1/NFA - FA No deterministico.md",
+    "Classes/Informatica 1/FA - Definiciones formales.md",
+    "Templates/LaTeX - varepsilon.md",
+    "Classes/Proyecto con Microprocesadores 1/TP Final - Brainstorming.md"
   ]
 }
