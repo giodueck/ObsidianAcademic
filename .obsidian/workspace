@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PDA - Introduction.md",
+            "file": "Classes/Informatica 1/PDA - Definiciones formales.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PDA - Introduction.md",
+            "file": "Classes/Informatica 1/PDA - Definiciones formales.md",
             "mode": "preview",
             "source": true
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDA - Introduction.md",
+                "file": "Classes/Informatica 1/PDA - Definiciones formales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +130,15 @@
   },
   "active": "7d15619b17e95f60",
   "lastOpenFiles": [
+    "LaTeX Cheatsheet.md",
+    "Classes/Informatica 1/PDA - Definiciones formales.md",
+    "Templates/LaTeX - Gamma star.md",
     "Classes/Classes MOC.md",
+    "Index.md",
+    "Push Down Automata.md",
+    "Classes/Informatica 1/FA - Definiciones formales.md",
     "Classes/Informatica 1/Regular Expressions.md",
     "Classes/Informatica 1/Introduccion.md",
-    "LaTeX Cheatsheet.md",
-    "Classes/Informatica 1/FA - Limitaciones.md",
-    "Classes/Informatica 1/FA - FA-nula.md",
-    "Classes/Informatica 1/NFA - FA No deterministico.md",
-    "Classes/Informatica 1/FA - Definiciones formales.md",
-    "Templates/LaTeX - varepsilon.md",
-    "Classes/Proyecto con Microprocesadores 1/TP Final - Brainstorming.md"
+    "Classes/Informatica 1/FA - Limitaciones.md"
   ]
 }

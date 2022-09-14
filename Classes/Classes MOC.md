@@ -14,7 +14,8 @@
 	- [[FA - FA-nula]]
 	- [[FA - Limitaciones]]
 - [[Regular Expressions]]
-- [[PDA - Introduction]]
+- [[Push Down Automata]]
+	- [[PDA - Definiciones formales]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]
