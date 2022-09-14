@@ -44,3 +44,22 @@ $\delta(q, \varepsilon, A) = <q', a>$
 *si* $x = x', \varphi = A\beta, \varphi' = a\beta$
 
 #todo ejercicios ppt - funcionamiento
+
+## Uso
+### Reconocimiento por estado final
+Un PDA $A = (Q, \Sigma, \Gamma, \delta, q_0, Z_0, F)$ reconoce una cadena $x \in \Sigma^*$ si y solo si
+$<q_0, x, Z_0> \ \vdash^* <q_f, \varepsilon, \varphi>$
+con $q_f \in F$
+$\varphi \in \Gamma^*$
+
+Una cadena es reconocida si se termino de leerla y en algun momento se alcanza un estado final.
+Lenguaje reconocido es el conjunto de todas las cadenas reconocidas.
+
+### Reconocimiento por pila vacia
+Un PDA $A = (Q, \Sigma, \Gamma, \delta, q_0, Z_0, F)$ reconoce una cadena $x \in \Sigma^*$ si y solo si
+$<q_0, x, Z_0> \ \vdash^* \ <q, \varepsilon, \varepsilon>$
+con $q \in Q$
+
+Una cadena es reconocida si se termino de leerla y la pila esta vacia.
+Lenguaje reconocido es el conjunto de todas las cadenas reconocidas.
+
