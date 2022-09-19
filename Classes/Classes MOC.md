@@ -16,6 +16,7 @@
 - [[Regular Expressions]]
 - [[Push Down Automata]]
 	- [[PDA - Definiciones formales]]
+	- [[PDA - Teoremas]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]

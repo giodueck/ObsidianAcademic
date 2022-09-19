@@ -62,4 +62,3 @@ con $q \in Q$
 
 Una cadena es reconocida si se termino de leerla y la pila esta vacia.
 Lenguaje reconocido es el conjunto de todas las cadenas reconocidas.
-

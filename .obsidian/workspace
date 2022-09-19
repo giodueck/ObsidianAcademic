@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Informatica 1/PDA - Definiciones formales.md",
+            "file": "Classes/Informatica 1/PDA - Teoremas.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Informatica 1/PDA - Definiciones formales.md",
+            "file": "Classes/Informatica 1/PDA - Teoremas.md",
             "mode": "preview",
             "source": true
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/PDA - Definiciones formales.md",
+                "file": "Classes/Informatica 1/PDA - Teoremas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,14 +131,14 @@
   "active": "7d15619b17e95f60",
   "lastOpenFiles": [
     "LaTeX Cheatsheet.md",
+    "Classes/Informatica 1/PDA - Teoremas.md",
+    "Classes/Classes MOC.md",
     "Classes/Informatica 1/PDA - Definiciones formales.md",
     "Templates/LaTeX - Gamma star.md",
-    "Classes/Classes MOC.md",
     "Index.md",
-    "Push Down Automata.md",
+    "Classes/Informatica 1/Push Down Automata.md",
     "Classes/Informatica 1/FA - Definiciones formales.md",
     "Classes/Informatica 1/Regular Expressions.md",
-    "Classes/Informatica 1/Introduccion.md",
-    "Classes/Informatica 1/FA - Limitaciones.md"
+    "Classes/Informatica 1/Introduccion.md"
   ]
 }
