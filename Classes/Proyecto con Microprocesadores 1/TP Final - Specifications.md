@@ -60,7 +60,6 @@ typedef struct sprite
 ### Functions
 #### General
 
-All functions take into account the screen brightness, if it is not hardware controlled
 ```c
 void draw(point v, pixel p);
 
@@ -70,8 +69,7 @@ void draw_rect(point v1, point v2, pixel p);
 
 void draw_triangle(point v1, point v2, point v3, pixel p);
 
-void draw_circle(point v, int32_t r, pixel p);
-void draw_circle_f(point v, float r, pixel p);
+void draw_circle(point c, float r, pixel p);
 
 void fill(pixel p);
 
@@ -79,17 +77,7 @@ void fill_rect(point v1, point v2, pixel p);
 
 void fill_triangle(point v1, point v2, point v3, pixel p);
 
-void fill_circle(point v, int32_t r, pixel p);
-void fill_circle_f(point v, float r, pixel p);
-```
-
-#### setup
-```c
-// Controls whether alpha values are taken into account
-// P: -1: No
-//    0: Only background (useful for sprites)
-//    1: Yes
-void enable_transparent(uint8_t b);
+void fill_circle(point c, float r, pixel p);
 ```
 
 #### Operations
@@ -99,9 +87,6 @@ pixel pixel_negative(pixel p);
 pixel pixel_add(pixel a, pixel b);
 
 pixel pixel_sub(pixel a, pixel b);
-
-// only useful for full transparency mode and pixels with alpha values other than 0 and 255
-pixel pixel_layer(pixel fg, pixel bg);
 ```
 
 #### Conversions

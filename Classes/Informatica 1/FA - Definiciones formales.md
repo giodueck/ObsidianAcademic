@@ -70,7 +70,7 @@ Un lenguaje puede ser reconocido por mas de un FFA ssi $q_0 \in F$, el FA recono
 $\delta^*(q0,abbaba)=\delta^*(\delta^*(q0, abb), aba)$
 
 #todo Demostrar que:
-$\forall x,y \in \Sigma^*,\ \delta^*(q, xy)=\delta^*(\delta^*(1, x), y)$
+$\forall x,y \in \Sigma^*,\ \delta^*(q, xy)=\delta^*(\delta^*(q, x), y)$
 o
 $\delta^*(q,x)=q' \wedge \delta^*(q',y)=q''\rightarrow \delta^*(q,xy)=q''$
 

@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "7d15619b17e95f60",
+        "id": "7a80509117a1ae0d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Informatica 1/PDA - Teoremas.md",
+            "file": "Gramaticas.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "2c86cf6a2a366fe6"
+        "group": "4dca8c614b1f93aa"
       },
       {
-        "id": "d00fc6e38491f976",
+        "id": "ac3cc29c2fdbe994",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Informatica 1/PDA - Teoremas.md",
+            "file": "Gramaticas.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "2c86cf6a2a366fe6"
+        "group": "4dca8c614b1f93aa"
       }
     ],
     "direction": "vertical"
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "bombeo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/PDA - Teoremas.md",
+                "file": "Gramaticas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7d15619b17e95f60",
+  "active": "7a80509117a1ae0d",
   "lastOpenFiles": [
-    "LaTeX Cheatsheet.md",
-    "Classes/Informatica 1/PDA - Teoremas.md",
     "Classes/Classes MOC.md",
-    "Classes/Informatica 1/PDA - Definiciones formales.md",
-    "Templates/LaTeX - Gamma star.md",
-    "Index.md",
-    "Classes/Informatica 1/Push Down Automata.md",
+    "Classes/Proyecto con Microprocesadores 1/TP Final - Specifications.md",
+    "Classes/Informatica 1/FA - Propiedades.md",
+    "Classes/Informatica 1/FA - FA-nula.md",
+    "Classes/Informatica 1/FA vs DFA - Equivalencia.md",
     "Classes/Informatica 1/FA - Definiciones formales.md",
-    "Classes/Informatica 1/Regular Expressions.md",
-    "Classes/Informatica 1/Introduccion.md"
+    "Classes/Proyecto con Microprocesadores 1/TP Final - Brainstorming.md",
+    "Classes/Proyecto con Microprocesadores 1/Project Euler on ARM Cortex-M4F.md",
+    "Classes/Informatica 1/NFA - FA No deterministico.md",
+    "Classes/Informatica 1/PDA - NPDA.md"
   ]
 }

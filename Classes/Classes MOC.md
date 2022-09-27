@@ -17,6 +17,8 @@
 - [[Push Down Automata]]
 	- [[PDA - Definiciones formales]]
 	- [[PDA - Teoremas]]
+	- [[PDA - NPDA]]
+- [[Gramaticas]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]

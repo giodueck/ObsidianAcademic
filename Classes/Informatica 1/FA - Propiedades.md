@@ -3,8 +3,7 @@
 # FA - Propiedades
 ## Teorema
 Sea $A = (Q, \Sigma, \delta, q_0, F)$ un DFA
-*L(A) es infinito*
-si y solo si $\exists x \in \Sigma^*, x \in L(A) \wedge |x| \ge |Q|$
+L(A) es infinito si y solo si $\exists x \in \Sigma^* \ | \ x \in L(A) \wedge |x| \ge |Q|$
 
 **Planteo de la demostracion**
 Sea $A = (Q, \Sigma, \delta, q_0, F)$ un DFA
@@ -125,5 +124,3 @@ Sean los resultados $\delta_1^*(q_{01}, x) =$ *$qf_1$* y $\delta_2^*(q_{02}, x) 
 $\delta_1^*(q_{01}, x) = q_1, \delta_2^*(q_{02}, x) = q_2 \rightarrow \delta^*_3(<q_{01}, q_{02}>, x) = <q_1, q_2>$
 
 #todo *Demostracion de procedimiento*
-
-#todo **Temas examen**
