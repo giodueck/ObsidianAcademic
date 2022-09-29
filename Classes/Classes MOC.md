@@ -19,6 +19,7 @@
 	- [[PDA - Teoremas]]
 	- [[PDA - NPDA]]
 - [[Gramaticas]]
+- [[Turing Machines]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]

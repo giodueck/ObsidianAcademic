@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "7a80509117a1ae0d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gramaticas.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "group": "4dca8c614b1f93aa"
-      },
-      {
         "id": "ac3cc29c2fdbe994",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gramaticas.md",
+            "file": "Classes/Informatica 1/Turing Machines.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "bafc2b515c3d112f"
+      },
+      {
+        "id": "3c58b7541e3e726e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Classes/Informatica 1/Turing Machines.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "4dca8c614b1f93aa"
+        "group": "bafc2b515c3d112f"
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gramaticas.md",
+                "file": "Classes/Informatica 1/Turing Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7a80509117a1ae0d",
+  "active": "ac3cc29c2fdbe994",
   "lastOpenFiles": [
+    "Templates/LaTeX - textblank.md",
+    "Classes/Informatica 1/Turing Machines.md",
+    "LaTeX Cheatsheet.md",
     "Classes/Classes MOC.md",
+    "Classes/Informatica 1/Introduccion.md",
+    "Classes/Informatica 1/Gramaticas.md",
     "Classes/Proyecto con Microprocesadores 1/TP Final - Specifications.md",
     "Classes/Informatica 1/FA - Propiedades.md",
     "Classes/Informatica 1/FA - FA-nula.md",
-    "Classes/Informatica 1/FA vs DFA - Equivalencia.md",
-    "Classes/Informatica 1/FA - Definiciones formales.md",
-    "Classes/Proyecto con Microprocesadores 1/TP Final - Brainstorming.md",
-    "Classes/Proyecto con Microprocesadores 1/Project Euler on ARM Cortex-M4F.md",
-    "Classes/Informatica 1/NFA - FA No deterministico.md",
-    "Classes/Informatica 1/PDA - NPDA.md"
+    "Classes/Informatica 1/FA vs DFA - Equivalencia.md"
   ]
 }
