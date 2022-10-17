@@ -24,8 +24,8 @@ Complejidad | Analisis de algoritmos | 5/10 | 20 | Poca complejidad si se maneja
 ## Evaluacion
 Tipo | Puntaje | Temario | Fecha
 --- | --- | --- | ---
-Parcial | 30 | FA | 27-09-2022
-Parcial | 30 | PDA y TM | 24-10-2022
+Parcial | 30 | FA | 03-10-2022
+Parcial | 30 | PDA y TM | 31-10-2022
 Final | 40 | Computabilidad y Complejidad (no global)
 
 ## Bibliografia

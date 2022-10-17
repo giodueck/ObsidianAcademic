@@ -66,7 +66,7 @@ $\delta^*(q, x) = q' \wedge \delta^*(q', y) = q'' \rightarrow \delta^*(q, xy) = 
 ### NFA
 $q' \in \delta^*(q, x) \wedge q'' \in \delta^*(q', y) \rightarrow q'' \in \delta^*(q, xy)$
 
-## Ejercicio FA (no deterministico) #todo 
+## Ejercicio FA (no deterministico)
 FA que reconoce cualquier cadena de $\{0, 1\}^*$ que termina con 111
 
 ### Demostracion de correccion

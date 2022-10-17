@@ -18,8 +18,6 @@ Dar un procedimiento para que a partir de un NFA se construya un DFA que reconoz
 ### Fundamentacion de un procedimiento
 ![[info-1-ej-nfa-2.png]]
 
-#todo realizar el procedimiento
-
 ### Definicion formal
 
 Para todo NFA $B = (Q, \Sigma, \delta, q_0, F)$ existe un DFA $A = (Q_D, \Sigma, \delta_D, q_{0D}, F_D)$ tal que L(A) = L(B)
@@ -36,6 +34,6 @@ $\delta^*(\{q\}, x) = \delta^*(q, x)$
 ### Ejercicios tipo tema parcial #todo 
 - Demostrar que L(FA) son cerrados respecto a la operacion "reversion"
 	- Para todo FA A, existe un FA B, tal que $L(B) = L(A)^R$
-- Demostrar que L(FA) son cerracos  respecto a la operacion *
-### Otros ejercicios #todo 
+- Demostrar que L(FA) son cerrados respecto a la operacion *
+### Otros ejercicios
 *En el PPT*

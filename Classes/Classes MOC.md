@@ -20,6 +20,7 @@
 	- [[PDA - NPDA]]
 - [[Gramaticas]]
 - [[Turing Machines]]
+	- [[K Tape TM - Definiciones formales]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]
