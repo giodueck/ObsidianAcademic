@@ -21,6 +21,8 @@
 - [[Gramaticas]]
 - [[Turing Machines]]
 	- [[K Tape TM - Definiciones formales]]
+	- [[TM - Variaciones]]
+	- [[TM - Calculo de funciones y reconocimiento de lenguajes]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]

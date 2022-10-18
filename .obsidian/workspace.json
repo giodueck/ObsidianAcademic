@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K Tape TM - Definiciones formales.md",
+                "file": "TM - Calculo de funciones y reconocimiento de lenguajes.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "a6f91b65d365f681"
+          }
+        ]
+      },
+      {
+        "id": "a26f64de368d5ce0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfd8fa041fd16b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TM - Calculo de funciones y reconocimiento de lenguajes.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "a6f91b65d365f681"
           }
         ]
       }
@@ -79,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe51fbf17d4ac71e",
@@ -95,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K Tape TM - Definiciones formales.md",
+                "file": "TM - Calculo de funciones y reconocimiento de lenguajes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +126,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "cb04254f929be7e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,17 +145,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "be8438d2dc199719",
+  "active": "3c58b7541e3e726e",
   "lastOpenFiles": [
-    "K Tape TM - Definiciones formales.md",
+    "Classes/Informatica 1/Reconocimiento de lenguajes.md",
+    "TM - Calculo de funciones y reconocimiento de lenguajes.md",
     "Classes/Classes MOC.md",
+    "Classes/Informatica 1/TM - Variaciones.md",
+    "Classes/Informatica 1/K Tape TM - Definiciones formales.md",
     "Classes/Informatica 1/Turing Machines.md",
     "Classes/Informatica 1/Introduccion.md",
     "Classes/Informatica 1/FA - Propiedades.md",
     "Classes/Informatica 1/FA - FA-nula.md",
-    "Classes/Informatica 1/NFA - FA No deterministico.md",
-    "Classes/Informatica 1/FA - Definiciones formales.md",
-    "Classes/Informatica 1/FA vs DFA - Equivalencia.md",
-    "Classes/Informatica 1/FA - Ejercicio tipo Examen.md"
+    "Classes/Informatica 1/NFA - FA No deterministico.md"
   ]
 }
