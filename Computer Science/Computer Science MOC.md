@@ -1,5 +1,5 @@
 # Computer Science MOC
-[[Networking MOC]]
+[[Computer Networks MOC]]
 
 ---
 #MOC 

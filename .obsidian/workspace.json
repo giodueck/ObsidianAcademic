@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "35242ae3ade4f0cd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c58b7541e3e726e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TM - Calculo de funciones y reconocimiento de lenguajes.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "a6f91b65d365f681"
-          }
-        ]
-      },
-      {
         "id": "a26f64de368d5ce0",
         "type": "tabs",
         "children": [
@@ -32,12 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TM - Calculo de funciones y reconocimiento de lenguajes.md",
+                "file": "Classes/Informatica 1/Enumeracion.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "a6f91b65d365f681"
+            "group": "fc66bce5cfa77bd2"
+          }
+        ]
+      },
+      {
+        "id": "b7f71f01c5936465",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b03740577bb22e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Informatica 1/Enumeracion.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "fc66bce5cfa77bd2"
           }
         ]
       }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TM - Calculo de funciones y reconocimiento de lenguajes.md",
+                "file": "Classes/Informatica 1/Enumeracion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +145,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3c58b7541e3e726e",
+  "active": "dfd8fa041fd16b9e",
   "lastOpenFiles": [
-    "Classes/Informatica 1/Reconocimiento de lenguajes.md",
-    "TM - Calculo de funciones y reconocimiento de lenguajes.md",
     "Classes/Classes MOC.md",
-    "Classes/Informatica 1/TM - Variaciones.md",
-    "Classes/Informatica 1/K Tape TM - Definiciones formales.md",
-    "Classes/Informatica 1/Turing Machines.md",
-    "Classes/Informatica 1/Introduccion.md",
-    "Classes/Informatica 1/FA - Propiedades.md",
-    "Classes/Informatica 1/FA - FA-nula.md",
-    "Classes/Informatica 1/NFA - FA No deterministico.md"
+    "Classes/Informatica 1/Computabilidad.md",
+    "Classes/Proyecto con Microprocesadores 1/SysTick - Ejemplo.md",
+    "Index.md",
+    "LaTeX Cheatsheet.md",
+    "Computer Science/Computer Science MOC.md",
+    "Computer Science/Networking/Computer Networks MOC.md",
+    "Classes/Informatica 1/PDA - Definiciones formales.md",
+    "Classes/Informatica 1/Push Down Automata.md",
+    "Classes/Informatica 1/PDA - NPDA.md"
   ]
 }

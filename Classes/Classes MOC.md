@@ -23,6 +23,8 @@
 	- [[K Tape TM - Definiciones formales]]
 	- [[TM - Variaciones]]
 	- [[TM - Calculo de funciones y reconocimiento de lenguajes]]
+- [[Computabilidad]]
+	- [[Enumeracion]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]
@@ -31,6 +33,7 @@
 - [[Project Euler on ARM Cortex-M4F]]
 - [[TP Final - Brainstorming]]
 - [[TP Final - Specifications]]
+- [[SysTick - Ejemplo]]
 
 ## Redes de Computadoras 2
 - [[Multicasting]]

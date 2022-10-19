@@ -9,7 +9,7 @@
 	2. el simbolo leido (o ignorado)
 	3. el tope de la pila
 - Puede ingresar a *bucles infinitos* (simplemente operando con la pila)
-- La cadena se reconoce una vez que *alcance el estado final y se haya procesado completamente. No implica que el PDA se detenga* al terminar de procesar la cadena, puede que siga moviendose (inclusive infinitamente) despues de haber reconocido una cadena
+- La cadena se reconoce una vez que *alcance un estado final y se haya procesado completamente. No implica que el PDA se detenga* al terminar de procesar la cadena, puede que siga moviendose (inclusive infinitamente) despues de haber reconocido una cadena
 - *No* puede operar con una pila vacia
 
 ## Elementos

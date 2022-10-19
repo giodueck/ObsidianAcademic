@@ -5,9 +5,11 @@ Also, sequential note-taking leaves no space for later improvement or revisions,
 
 But these concept notes need organization, start searching here.
 
-[[Computer Science MOC]]
-
+## Uni
 [[Classes MOC]]
+
+## General
+[[Computer Science MOC]]
 
 ## Useful
 [[LaTeX Cheatsheet]]
