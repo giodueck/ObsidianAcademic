@@ -25,6 +25,7 @@
 	- [[TM - Calculo de funciones y reconocimiento de lenguajes]]
 - [[Computabilidad]]
 	- [[Enumeracion]]
+	- [[Ordenamiento de FAs]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]

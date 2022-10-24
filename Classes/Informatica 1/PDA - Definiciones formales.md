@@ -38,12 +38,10 @@ $c = <q, x, \varphi>$
 Un PDA A avanza desde una configuracion c hasta una config. c'
 $c \vdash c'$
 $<q, x, \varphi> \ \vdash \ <q', x', \varphi'>$ *por medio de*
-$\delta(q, i, a) = <q', a>$
+$\delta(q, i, A) = <q', a>$
 *si* $x = ix', \varphi = A\beta, \varphi' = a\beta$
 $\delta(q, \varepsilon, A) = <q', a>$
 *si* $x = x', \varphi = A\beta, \varphi' = a\beta$
-
-#todo ejercicios ppt - funcionamiento
 
 ## Uso
 ### Reconocimiento por estado final

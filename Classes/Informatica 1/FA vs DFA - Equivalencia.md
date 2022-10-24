@@ -28,10 +28,9 @@ $q_{0D} = \{q_0\}$
 $F_D = \{q_D \ | \ q_D \cap F \ne \emptyset\}$
 
 ### Demostracion
-#todo 
 $\delta^*(\{q\}, x) = \delta^*(q, x)$
 
-### Ejercicios tipo tema parcial #todo 
+### Ejercicios tipo tema parcial
 - Demostrar que L(FA) son cerrados respecto a la operacion "reversion"
 	- Para todo FA A, existe un FA B, tal que $L(B) = L(A)^R$
 - Demostrar que L(FA) son cerrados respecto a la operacion *

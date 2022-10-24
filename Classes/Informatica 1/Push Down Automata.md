@@ -9,7 +9,7 @@ PDA = FA + Pila de capacidad infinita
 
 ## Diferencias principales con los FA
 - Puede realizar movimientos con los datos de la pila sin tener en cuenta la entrada (movidas nulas)
-- El movimiento depende del estado, de la entrada o del simbolo en el tope de la pila
+- El movimiento depende del estado y de la entrada y/o del simbolo en el tope de la pila
 
 ## Ejercicios
 #todo 

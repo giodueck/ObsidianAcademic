@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a26f64de368d5ce0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dfd8fa041fd16b9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Informatica 1/Enumeracion.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "fc66bce5cfa77bd2"
-          }
-        ]
-      },
-      {
         "id": "b7f71f01c5936465",
         "type": "tabs",
         "children": [
@@ -32,12 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/Enumeracion.md",
+                "file": "Classes/Informatica 1/Ordenamiento de FAs.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "e3c7f810221fc654"
+          }
+        ]
+      },
+      {
+        "id": "4a49c219859b4894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a780bb25995d83f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Informatica 1/Ordenamiento de FAs.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "fc66bce5cfa77bd2"
+            "group": "e3c7f810221fc654"
           }
         ]
       }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/Enumeracion.md",
+                "file": "Classes/Informatica 1/Ordenamiento de FAs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +145,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dfd8fa041fd16b9e",
+  "active": "10b03740577bb22e",
   "lastOpenFiles": [
     "Classes/Classes MOC.md",
-    "Classes/Informatica 1/Computabilidad.md",
-    "Classes/Proyecto con Microprocesadores 1/SysTick - Ejemplo.md",
-    "Index.md",
-    "LaTeX Cheatsheet.md",
-    "Computer Science/Computer Science MOC.md",
-    "Computer Science/Networking/Computer Networks MOC.md",
-    "Classes/Informatica 1/PDA - Definiciones formales.md",
+    "Classes/Informatica 1/PDA - Teoremas.md",
+    "Classes/Informatica 1/Introduccion.md",
     "Classes/Informatica 1/Push Down Automata.md",
-    "Classes/Informatica 1/PDA - NPDA.md"
+    "Classes/Informatica 1/PDA - NPDA.md",
+    "Classes/Informatica 1/PDA - Definiciones formales.md",
+    "Classes/Informatica 1/Gramaticas.md",
+    "Classes/Informatica 1/FA vs DFA - Equivalencia.md",
+    "Classes/Informatica 1/FA - Propiedades.md",
+    "Classes/Informatica 1/Enumeracion.md"
   ]
 }

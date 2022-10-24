@@ -122,5 +122,3 @@ Sean los resultados $\delta_1^*(q_{01}, x) =$ *$qf_1$* y $\delta_2^*(q_{02}, x) 
 
 *Generalizando:*
 $\delta_1^*(q_{01}, x) = q_1, \delta_2^*(q_{02}, x) = q_2 \rightarrow \delta^*_3(<q_{01}, q_{02}>, x) = <q_1, q_2>$
-
-#todo *Demostracion de procedimiento*
