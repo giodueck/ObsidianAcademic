@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/Ordenamiento de FAs.md",
+                "file": "Classes/Informatica 1/Enumeracion de TM.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/Ordenamiento de FAs.md",
+                "file": "Classes/Informatica 1/Enumeracion de TM.md",
                 "mode": "preview",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/Ordenamiento de FAs.md",
+                "file": "Classes/Informatica 1/Enumeracion de TM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,14 +148,14 @@
   "active": "10b03740577bb22e",
   "lastOpenFiles": [
     "Classes/Classes MOC.md",
+    "LaTeX Cheatsheet.md",
+    "Classes/Informatica 1/Enumeracion de TM.md",
+    "Classes/Informatica 1/Ordenamiento de FAs.md",
+    "Classes/Informatica 1/K Tape TM - Definiciones formales.md",
+    "Classes/Informatica 1/Turing Machines.md",
     "Classes/Informatica 1/PDA - Teoremas.md",
     "Classes/Informatica 1/Introduccion.md",
     "Classes/Informatica 1/Push Down Automata.md",
-    "Classes/Informatica 1/PDA - NPDA.md",
-    "Classes/Informatica 1/PDA - Definiciones formales.md",
-    "Classes/Informatica 1/Gramaticas.md",
-    "Classes/Informatica 1/FA vs DFA - Equivalencia.md",
-    "Classes/Informatica 1/FA - Propiedades.md",
-    "Classes/Informatica 1/Enumeracion.md"
+    "Classes/Informatica 1/PDA - NPDA.md"
   ]
 }

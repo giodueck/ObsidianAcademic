@@ -26,6 +26,7 @@
 - [[Computabilidad]]
 	- [[Enumeracion]]
 	- [[Ordenamiento de FAs]]
+	- [[Enumeracion de TM]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]
