@@ -69,7 +69,7 @@ Cada funcion que podemos escribir, se puede computar?
 Cada problema que podemos imaginarnos tiene solucion?
 Todo lenguaje definido puede ser reconocido por una TM?
 
-## Turng machine enumeradora
+## Turing machine enumeradora
 Existe un algoritmo que reciba un numero de Gödel y genere el dibujo (o la delta) de la TM correspondiente?
 
 Segun la tesis de Church (parte 2), cualquier algoritmo puede codificarse en una maquina de turing o formalismo equivalente.
@@ -77,7 +77,7 @@ $\therefore$ existe una TM **Enumeradora**
 
 Si existe un algoritmo "Sistema Operativo", debe existir una TM "Sistea operativo"
 - Es decir, un algoritmo que se pueda comportar como cualquier otro algoritmo
-- Una TM "SO" recibe como entrada otra TM
+- Una TM "SO" recibe como entrada otra TM o su numero de Gödel
 
 Esta TM es la **Maquina Universal de Turing** (UTM)
 - Recibe dos entradas:

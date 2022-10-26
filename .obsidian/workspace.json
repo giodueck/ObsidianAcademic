@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b7f71f01c5936465",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "10b03740577bb22e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Informatica 1/Enumeracion de TM.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "e3c7f810221fc654"
-          }
-        ]
-      },
-      {
         "id": "4a49c219859b4894",
         "type": "tabs",
         "children": [
           {
-            "id": "3a780bb25995d83f",
+            "id": "fb40361594c3be88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/Enumeracion de TM.md",
+                "file": "Classes/Informatica 1/UTM y el Halting Problem.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "94c3f929265f2eb5"
+          }
+        ]
+      },
+      {
+        "id": "975b30c0946d02b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb14e7bb648d32c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Informatica 1/UTM y el Halting Problem.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "e3c7f810221fc654"
+            "group": "94c3f929265f2eb5"
           }
         ]
       }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/Enumeracion de TM.md",
+                "file": "Classes/Informatica 1/UTM y el Halting Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +145,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "10b03740577bb22e",
+  "active": "cb04254f929be7e0",
   "lastOpenFiles": [
-    "Classes/Classes MOC.md",
-    "LaTeX Cheatsheet.md",
     "Classes/Informatica 1/Enumeracion de TM.md",
-    "Classes/Informatica 1/Ordenamiento de FAs.md",
-    "Classes/Informatica 1/K Tape TM - Definiciones formales.md",
-    "Classes/Informatica 1/Turing Machines.md",
+    "Classes/Classes MOC.md",
+    "Classes/Informatica 1/UTM y el Halting Problem.md",
+    "Index.md",
+    "LaTeX Cheatsheet.md",
+    "Classes/Informatica 1/Regular Expressions.md",
+    "Classes/Informatica 1/TM - Variaciones.md",
     "Classes/Informatica 1/PDA - Teoremas.md",
-    "Classes/Informatica 1/Introduccion.md",
-    "Classes/Informatica 1/Push Down Automata.md",
+    "Classes/Informatica 1/Gramaticas.md",
     "Classes/Informatica 1/PDA - NPDA.md"
   ]
 }

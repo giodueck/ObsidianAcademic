@@ -12,7 +12,6 @@ PDA = FA + Pila de capacidad infinita
 - El movimiento depende del estado y de la entrada y/o del simbolo en el tope de la pila
 
 ## Ejercicios
-#todo 
 Diseñar PDA que reconozcan los siguientes lenguajes
 $\{a^nb^m \ | \ m > n, m \ge 0\}$
 $\{a^nb^m \ | \ m < n, m > 1\}$
