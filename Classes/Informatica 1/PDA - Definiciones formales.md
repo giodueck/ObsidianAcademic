@@ -60,3 +60,9 @@ con $q \in Q$
 
 Una cadena es reconocida si se termino de leerla y la pila esta vacia.
 Lenguaje reconocido es el conjunto de todas las cadenas reconocidas.
+
+## Ejercicios
+Diseñar PDAs que reconozcan los siguientes lenguajes y demostrar la correccion de los diseños
+- $wcw^R, w \in \{a, b\}^*$
+- $a^nb^m, n \ne m, n > 0, m > 0$
+- $a^nb^ic^j, n > 0, i \ge 0, j \ge 0, n = i + j$
