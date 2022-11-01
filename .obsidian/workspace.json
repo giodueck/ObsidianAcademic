@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2fbc003cd95a8172",
+        "id": "66f5c6a89063f3d2",
         "type": "tabs",
         "children": [
           {
-            "id": "09411a3f818ca961",
+            "id": "d20b914d129ca9c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/PDA - Teoremas.md",
+                "file": "Classes/Informatica 1/UTM y el Halting Problem.md",
                 "mode": "source",
                 "source": true
               }
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe51fbf17d4ac71e",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/PDA - Teoremas.md",
+                "file": "Classes/Informatica 1/UTM y el Halting Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "09411a3f818ca961",
+  "active": "cb04254f929be7e0",
   "lastOpenFiles": [
-    "Classes/Informatica 1/Ordenamiento de FAs.md",
-    "Classes/Informatica 1/Gramaticas.md",
+    "Classes/Informatica 1/UTM y el Halting Problem.md",
     "Classes/Classes MOC.md",
     "Index.md",
+    "LaTeX Cheatsheet.md",
+    "Classes/Informatica 1/PDA - Teoremas.md",
+    "Classes/Informatica 1/Ordenamiento de FAs.md",
+    "Classes/Informatica 1/Gramaticas.md",
     "Classes/Informatica 1/PDA - NPDA.md",
     "Classes/Informatica 1/PDA - Definiciones formales.md",
-    "Classes/Informatica 1/PDA - Teoremas.md",
-    "Classes/Informatica 1/UTM y el Halting Problem.md",
-    "Classes/Informatica 1/Enumeracion de TM.md",
-    "LaTeX Cheatsheet.md"
+    "Classes/Informatica 1/Enumeracion de TM.md"
   ]
 }
