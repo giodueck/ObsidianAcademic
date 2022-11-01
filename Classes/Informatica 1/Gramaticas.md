@@ -75,5 +75,3 @@ L(DFA) = L(FA) = L($FA_\varepsilon$) = L(RE) = L(RG)
 
 L(NPDA) = L(CFG)
 
-#todo ejercicios gramaticas y RE (ppt)
-

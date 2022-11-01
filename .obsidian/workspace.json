@@ -11,8 +11,12 @@
             "id": "09411a3f818ca961",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Informatica 1/PDA - Teoremas.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -75,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe51fbf17d4ac71e",
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Classes/Informatica 1/PDA - Teoremas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +123,15 @@
   },
   "active": "09411a3f818ca961",
   "lastOpenFiles": [
+    "Classes/Informatica 1/Ordenamiento de FAs.md",
+    "Classes/Informatica 1/Gramaticas.md",
+    "Classes/Classes MOC.md",
+    "Index.md",
     "Classes/Informatica 1/PDA - NPDA.md",
     "Classes/Informatica 1/PDA - Definiciones formales.md",
-    "Classes/Classes MOC.md",
     "Classes/Informatica 1/PDA - Teoremas.md",
     "Classes/Informatica 1/UTM y el Halting Problem.md",
     "Classes/Informatica 1/Enumeracion de TM.md",
-    "Index.md",
-    "LaTeX Cheatsheet.md",
-    "Classes/Informatica 1/Regular Expressions.md",
-    "Classes/Informatica 1/TM - Variaciones.md"
+    "LaTeX Cheatsheet.md"
   ]
 }

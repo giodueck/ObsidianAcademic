@@ -25,7 +25,7 @@ $<q_0, a^nb^{2n}, Z> \ \vdash^* \ <q_2, \varepsilon, Z>, n \ge 1$
 1.d) $<q_1, b^m, \$^m> \ \vdash \ <q_1, \varepsilon, \varepsilon>, m \ge 0$
 1.e) $<q_1, \varepsilon, Z> \ \vdash \ <q_2, \varepsilon, Z>$
 
-#todo continuar (fotos)
+*continuacion en ppt*
 
 ## Limitaciones
 No existe PDA que reconozca:
