@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/UTM y el Halting Problem.md",
+                "file": "Classes/Informatica 1/Computabilidad avanzada.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "82710e2b88654957"
+          }
+        ]
+      },
+      {
+        "id": "eb4185816b17faa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6df9dcb855aff901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Informatica 1/Computabilidad avanzada.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "82710e2b88654957"
           }
         ]
       }
@@ -79,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe51fbf17d4ac71e",
@@ -96,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/UTM y el Halting Problem.md",
+                "file": "Classes/Informatica 1/Computabilidad avanzada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +141,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cb04254f929be7e0",
+  "active": "6dbc27205106e356",
   "lastOpenFiles": [
-    "Classes/Informatica 1/UTM y el Halting Problem.md",
     "Classes/Classes MOC.md",
+    "Classes/Informatica 1/UTM y el Halting Problem.md",
     "Index.md",
     "LaTeX Cheatsheet.md",
     "Classes/Informatica 1/PDA - Teoremas.md",

@@ -28,6 +28,7 @@
 	- [[Ordenamiento de FAs]]
 	- [[Enumeracion de TM]]
 	- [[UTM y el Halting Problem]]
+	- [[Computabilidad avanzada]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]
