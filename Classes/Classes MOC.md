@@ -29,6 +29,7 @@
 	- [[Enumeracion de TM]]
 	- [[UTM y el Halting Problem]]
 	- [[Computabilidad avanzada]]
+	- [[Pertenencia a conjuntos]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]

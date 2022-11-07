@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/Computabilidad avanzada.md",
+                "file": "Classes/Informatica 1/Pertenencia a conjuntos.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/Computabilidad avanzada.md",
+                "file": "Classes/Informatica 1/Pertenencia a conjuntos.md",
                 "mode": "preview",
                 "source": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/Computabilidad avanzada.md",
+                "file": "Classes/Informatica 1/Pertenencia a conjuntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +144,7 @@
   "active": "6dbc27205106e356",
   "lastOpenFiles": [
     "Classes/Classes MOC.md",
+    "Classes/Informatica 1/Computabilidad avanzada.md",
     "Classes/Informatica 1/UTM y el Halting Problem.md",
     "Index.md",
     "LaTeX Cheatsheet.md",
@@ -151,7 +152,6 @@
     "Classes/Informatica 1/Ordenamiento de FAs.md",
     "Classes/Informatica 1/Gramaticas.md",
     "Classes/Informatica 1/PDA - NPDA.md",
-    "Classes/Informatica 1/PDA - Definiciones formales.md",
-    "Classes/Informatica 1/Enumeracion de TM.md"
+    "Classes/Informatica 1/PDA - Definiciones formales.md"
   ]
 }
