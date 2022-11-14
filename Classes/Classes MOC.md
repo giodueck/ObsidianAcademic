@@ -30,6 +30,7 @@
 	- [[UTM y el Halting Problem]]
 	- [[Computabilidad avanzada]]
 	- [[Pertenencia a conjuntos]]
+	- [[Teorema de punto fijo]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]

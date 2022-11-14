@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/Pertenencia a conjuntos.md",
+                "file": "Classes/Informatica 1/Teorema de punto fijo.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/Pertenencia a conjuntos.md",
+                "file": "Classes/Informatica 1/Teorema de punto fijo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "d20b914d129ca9c0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Classes/Informatica 1/Teorema de punto fijo.md",
     "Classes/Classes MOC.md",
+    "Classes/Informatica 1/Pertenencia a conjuntos.md",
     "Classes/Informatica 1/Computabilidad avanzada.md",
     "Classes/Informatica 1/UTM y el Halting Problem.md",
     "Index.md",
     "LaTeX Cheatsheet.md",
     "Classes/Informatica 1/PDA - Teoremas.md",
-    "Classes/Informatica 1/Ordenamiento de FAs.md",
-    "Classes/Informatica 1/Gramaticas.md",
-    "Classes/Informatica 1/PDA - NPDA.md",
-    "Classes/Informatica 1/PDA - Definiciones formales.md"
+    "Classes/Informatica 1/Ordenamiento de FAs.md"
   ]
 }

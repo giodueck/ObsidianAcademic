@@ -63,6 +63,7 @@ $S$ es recursivamente enumerable si
 $S$ es recursivamente enumerable ssi
 $S = D_h$ *h es una funcion parcial y computable*
 #todo ppt
+#todo foto
 
 ## Temas de examen
 #todo ppt
