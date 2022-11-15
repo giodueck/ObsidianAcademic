@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "66f5c6a89063f3d2",
+        "id": "42efb521e683ecea",
         "type": "tabs",
         "children": [
           {
-            "id": "d20b914d129ca9c0",
+            "id": "f20e8075701ba769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/Teorema de punto fijo.md",
+                "file": "Classes/Informatica 1/Complejidad en Maquinas de Turing.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "b859d6e405c96a91"
+          }
+        ]
+      },
+      {
+        "id": "4be5a2c54c787e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62ac9a1f05ee3f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Informatica 1/Complejidad en Maquinas de Turing.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "b859d6e405c96a91"
           }
         ]
       }
@@ -96,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/Teorema de punto fijo.md",
+                "file": "Classes/Informatica 1/Complejidad en Maquinas de Turing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +142,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d20b914d129ca9c0",
+  "active": "f20e8075701ba769",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Classes/Informatica 1/Teorema de punto fijo.md",
     "Classes/Classes MOC.md",
+    "Complejidad/Costo en Maquinas de Turing.md",
+    "Classes/Informatica 1/Complejidad.md",
+    "LaTeX Cheatsheet.md",
+    "Classes/Informatica 1/Teorema de punto fijo.md",
+    "Untitled.md",
     "Classes/Informatica 1/Pertenencia a conjuntos.md",
     "Classes/Informatica 1/Computabilidad avanzada.md",
     "Classes/Informatica 1/UTM y el Halting Problem.md",
-    "Index.md",
-    "LaTeX Cheatsheet.md",
-    "Classes/Informatica 1/PDA - Teoremas.md",
-    "Classes/Informatica 1/Ordenamiento de FAs.md"
+    "Index.md"
   ]
 }

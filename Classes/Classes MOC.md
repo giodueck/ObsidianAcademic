@@ -31,6 +31,8 @@
 	- [[Computabilidad avanzada]]
 	- [[Pertenencia a conjuntos]]
 	- [[Teorema de punto fijo]]
+- [[Complejidad]]
+	- [[Complejidad en Maquinas de Turing]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]

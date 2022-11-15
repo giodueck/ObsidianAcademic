@@ -21,6 +21,8 @@ $\int\limits_0^1 x^2 + y^2 \ dx$
 
 $\sqrt[4]{4ac} = \sqrt{4ac}\sqrt{4ac}$
 
+$\lim_{x \to y} \log_2(x)$
+
 # Common symbols
 $\infty$
 $\emptyset$
