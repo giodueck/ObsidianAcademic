@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/Complejidad en Maquinas de Turing.md",
+                "file": "Classes/Informatica 1/Complejidad de NTM.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 1/Complejidad en Maquinas de Turing.md",
+                "file": "Classes/Informatica 1/Complejidad de NTM.md",
                 "mode": "preview",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 1/Complejidad en Maquinas de Turing.md",
+                "file": "Classes/Informatica 1/Complejidad de NTM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   "active": "f20e8075701ba769",
   "lastOpenFiles": [
     "Classes/Classes MOC.md",
+    "Classes/Informatica 1/Complejidad en Maquinas de Turing.md",
     "Complejidad/Costo en Maquinas de Turing.md",
     "Classes/Informatica 1/Complejidad.md",
     "LaTeX Cheatsheet.md",
@@ -152,7 +153,6 @@
     "Untitled.md",
     "Classes/Informatica 1/Pertenencia a conjuntos.md",
     "Classes/Informatica 1/Computabilidad avanzada.md",
-    "Classes/Informatica 1/UTM y el Halting Problem.md",
-    "Index.md"
+    "Classes/Informatica 1/UTM y el Halting Problem.md"
   ]
 }

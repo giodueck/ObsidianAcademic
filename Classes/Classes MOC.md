@@ -33,6 +33,7 @@
 	- [[Teorema de punto fijo]]
 - [[Complejidad]]
 	- [[Complejidad en Maquinas de Turing]]
+	- [[Complejidad de NTM]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]
