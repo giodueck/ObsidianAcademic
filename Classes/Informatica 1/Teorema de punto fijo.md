@@ -15,7 +15,7 @@ Tomamos $t(n) = n + 1 \rightarrow$ esto significa que existen dos maquinas "veci
 ## Demostracion
 En el ppt, no se realiza en clase
 
-# Teorema de Desicion de Rice
+# Teorema de Decision de Rice
 Sea **F** cualquier conjunto de funciones computables
 y sea *S* $(S \subseteq N)$ definida como:
 1. Si $x \in S$, entonces $f_x \in F$
@@ -65,7 +65,7 @@ El teorema de decision de Rice nos dice que ya que F no contiene a todas las fun
 - Funciones totales
 - Funciones que estan definidas para x = 10
 - Funciones que tienen a 10 en su imagen
-- Maquinas qie pasan por el estado $q_12$
+- Maquinas que pasan por el estado $q_12$
 - Maquinas que siempre leen todo el input
 - Maquinas que no leen todo el input
 

@@ -83,8 +83,8 @@ El lenguaje reconocido es el conjunto de todas las cadenas reconocidas
 #todo 
 - Definicion formal estilo JFLAP
 - Modificar definicion TM para que primero se mueva el cabezal y luego se escriba
-- Simular un DFA por media de una TM
-- Simular un PDA por media de una TM
-- Simular un NPDA por media de una TM
+- Simular un DFA por medio de una TM
+- Simular un PDA por medio de una TM
+- Simular un NPDA por medio de una TM
 
 #todo NTM y TM original del PPT

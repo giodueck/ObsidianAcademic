@@ -25,7 +25,7 @@ $S_2 =$ conjunto de numeros pares
 $Cs_2(x) ::= if \ x \in S_2 \ then \ 1 \ else \ 0$
 $S_2$ es rec. porque su Cs 
 $Cs_2(x) = 1 - (x \ mod \ 2)$ es computable
-$Cs_2(x) = if \ (x mod 2)==0 \ then \ 1 \ else \ 0$
+$Cs_2(x) = if \ (x \ mod \ 2)==0 \ then \ 1 \ else \ 0$
 
 ## Conjunto recursivamente enumerable
 Sea $S = \aleph$ cualquier subconjunto de naturales
@@ -39,15 +39,16 @@ Sea $S = \aleph$ cualquier subconjunto de naturales
 ### Demostracion
 S es recursivo $\rightarrow$ Cs es computable
 Si S es vacio $\rightarrow$ es r.e. por definicion
-Si S no es vacio $\rightarrow \exists x_0$ tal que $Ds(x_0) = 1 \rightarrow$ ...
-#todo ppt
+Si S no es vacio $\rightarrow \exists x_0$ tal que $Cs(x_0) = 1 \wedge x_0 \in S$
+$g(n) = if \ Cs(n) = 1 \ then \ n \ else \ x_0$
+$I_g = S$
 
 08-11-2022
 ---
 
 ## Teorema
 **Si $S$ y $S' = N - S$ son recursivamente enumerables, entonces S es recursivo**
-Si $S$ y $S'$ son recursivamente enumerables, entonces g y g' son computables. $S = I_g, S' = I_{g'}$
+Si $S$ y $S'$ son recursivamente enumerables, entonces g y g' son computables. $S = I_g, S' = I_{g'}$ *(imagen de g)*
 
 ### Demostracion
 #todo ppt

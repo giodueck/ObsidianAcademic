@@ -8,7 +8,7 @@
 - Alfabeto de entrada {a, b, c}
 
 ### Idea general
-1. Organizar rodos los DFA de la siguiente manera
+1. Organizar todos los DFA de la siguiente manera
 	{{1 estado}, {2 estados}, {3 estados}, ...}
 	*1.1. Contar cuantos DFA de n estados existen*
 	$\delta: Q \times \{a, b, c\} \rightarrow Q$
@@ -31,7 +31,7 @@ A1 *<* A2 si
 		- $q = q', i < i'$
 	- Si existe el par <p, j> tal que
 		- $\delta_1(p, j) < \delta_2(p, j)$
-		y para todo par <q', j'> $<$ <p', j'>, $\delta_1(p', j') = \delta_2(p', j')$
+		- y para todo par <p', j'> $<$ <p, j>, $\delta_1(p', j') = \delta_2(p', j')$
 
 #todo desarrollo y ejemplo en foto
 #todo Ejercicio en el ppt

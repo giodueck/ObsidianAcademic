@@ -34,6 +34,9 @@
 - [[Complejidad]]
 	- [[Complejidad en Maquinas de Turing]]
 	- [[Complejidad de NTM]]
+	- #todo Clase 2022-11-22
+	- [[Linear Speedup Theorem]]
+	- [[Complejidad - Limites practicos]]
 
 ## Proyecto con Microprocesadores 1
 - [[Control de flujo en Assembly]]
