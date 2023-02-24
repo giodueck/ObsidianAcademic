@@ -1,7 +1,6 @@
 28-11-2022
 ---
 # Complejidad - Limites practicos
-#todo intro
 
 ## Clasificacion
 **Problemas tratables** = Costo polinomial: $O(n^{20})$
@@ -24,8 +23,6 @@ TM deterministicas vs TM no deterministicas
 **N**SPACE(f)
 - La familia de lenguajes reconocidos por una TM *no deterministica* con complejidad espacial limitada por f. $S_M(n) \le f(n)$
 
-#todo Para reforzar conceptos de xTIME y xSPACE (ppt)
+#incomplete Para reforzar conceptos de xTIME y xSPACE (ppt)
 
-#todo continue
-
-#todo tema de examen
+#incomplete tema de examen

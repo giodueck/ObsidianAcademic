@@ -11,4 +11,4 @@ $T_M(x) = \{r \ |$ es el numero maximo de cambios de configuracion en cualquiera
 
 #### Ejercicio
 Sea un grafo no dirigido sin pesos, encontrar (si es posible) un camino que recorre cada nodo exactamente una vez y vuelve al origen.
-#todo ver ppt
+#incomplete ver ppt

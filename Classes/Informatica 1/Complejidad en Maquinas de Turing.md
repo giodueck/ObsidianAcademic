@@ -20,5 +20,5 @@ $S_M(n) = \max\{S_M(x) \ | \ |x| = n\}$
 
 ## Ejemplo de calculo de complejidad de una TM
 Diseñar una TM que reconozca $a^ib^ic^i$ para $n \ge 0$
-#todo ppt: revisar, no va a salir en el examen pero es importante saber
+#incomplete ppt: revisar, no va a salir en el examen pero es importante saber
 

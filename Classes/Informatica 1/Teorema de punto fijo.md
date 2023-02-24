@@ -44,7 +44,7 @@ g(z) puede retornar 2 valores.
 - $g(z) = i$, implica que "salio por el else", implica que $Cs(z) \ne 1$, implica que $Cs(z) = 0$, implica que $f_z \notin F$, pero eso contradice el hecho de que $f_{g(z)}$ siendo $g(z) = i$, se de que $f_i \in F$
 - $g(z) = j$, implica que "salio por el then", implica que $Cs(z) = 1$, implica que $f_z \in F$, pero eso contradice el hecho de que $f_{g(z)}$ siendo $g(z) = j$, se de que $f_j \notin F$
 
-#todo Aprender de memoria, pero entender bien
+> Aprender de memoria, pero entender bien
 
 ## Aplicacion
 $k(x) = if \ f_x \ es \ constante \ then \ 1 \ else \ 0$

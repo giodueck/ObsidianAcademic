@@ -106,7 +106,7 @@ v es computable $\Rightarrow f_{x_0} = v$ para todo n, $v(n) = f_{x_0}(n)$
 $k(w_0) = x_0$
 Haciendo $n = w_0$ en * \* *
 
-#todo continuar (foto)
+#incomplete
 
 ## Otras funciones incomputables
 - k(x) = si $f_x$ es constante entonces 1 sino 0

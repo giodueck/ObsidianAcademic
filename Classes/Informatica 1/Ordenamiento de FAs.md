@@ -33,8 +33,8 @@ A1 *<* A2 si
 		- $\delta_1(p, j) < \delta_2(p, j)$
 		- y para todo par <p', j'> $<$ <p, j>, $\delta_1(p', j') = \delta_2(p', j')$
 
-#todo desarrollo y ejemplo en foto
-#todo Ejercicio en el ppt
+#incomplete desarrollo y ejemplo en foto
+#incomplete Ejercicio en el ppt
 
 ## Recomendaciones
 - Delinear los primeros criterios para dividir un conjunto infinito, en infinitos conjuntos finitos

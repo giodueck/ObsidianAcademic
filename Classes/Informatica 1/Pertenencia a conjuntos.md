@@ -29,10 +29,10 @@ $Cs_2(x) = if \ (x \ mod \ 2)==0 \ then \ 1 \ else \ 0$
 
 ## Conjunto recursivamente enumerable
 Sea $S = \aleph$ cualquier subconjunto de naturales
-#todo ppt
+#incomplete ppt
 
 ### Ejemplos de conjuntos rec. enum.
-#todo ppt
+#incomplete ppt
 
 ## Teorema
 **Todo conjunto recursivo es recursivamente enumerable**
@@ -51,7 +51,7 @@ $I_g = S$
 Si $S$ y $S'$ son recursivamente enumerables, entonces g y g' son computables. $S = I_g, S' = I_{g'}$ *(imagen de g)*
 
 ### Demostracion
-#todo ppt
+#incomplete ppt
 
 ## Teorema
 $S$ es recursivamente enumerable si
@@ -63,8 +63,7 @@ $S$ es recursivamente enumerable si
 ### Demostracion
 $S$ es recursivamente enumerable ssi
 $S = D_h$ *h es una funcion parcial y computable*
-#todo ppt
-#todo foto
+#incomplete ppt
 
 ## Temas de examen
-#todo ppt
+#incomplete ppt

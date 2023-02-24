@@ -4,5 +4,3 @@
 ## Equivalencia entre funciones y reconocimiento de lenguajes
 
 Hopcroft, Ejercicio 8.2.4: equivalencia entre el calculo de funciones y el reconocimiento de lenguajes
-
-#todo traducir el lenguaje de Hopcroft aqui

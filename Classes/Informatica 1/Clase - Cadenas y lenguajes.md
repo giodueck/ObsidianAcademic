@@ -3,7 +3,7 @@
 
 # Clase - Cadenas y lenguajes
 ## Simbolo
-Indivisible e inconfuncible con otro
+Indivisible e inconfundible con otro
 e.g. A, a, b, 0, Z0
 
 ## Alfabeto

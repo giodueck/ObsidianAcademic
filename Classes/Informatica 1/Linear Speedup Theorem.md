@@ -9,5 +9,4 @@ $<q, x \uparrow iy> \ \vdash \ <q', x' \uparrow i'y'> \ \vdash \ <q'', x'' \upar
 
 $<q, x \uparrow iy> \ \vdash \ <q''', x''' \uparrow i'''y'''>$ (Acelerada)
 
-#todo complete
-#todo tema de examen
+#incomplete tema de examen

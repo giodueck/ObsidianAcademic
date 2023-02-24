@@ -55,4 +55,4 @@ $x = x_1x_2x_3x_4...x_n$
 $y = y_1y_2y_3y_4...y_n$
 $\exists i \ | \ \forall j < i, x_j = y_j \wedge x_i$ *$<$* $y_i$
 
-#todo copiar resto del ejemplo (foto)
+#incomplete copiar resto del ejemplo

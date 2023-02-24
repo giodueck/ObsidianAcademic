@@ -27,7 +27,6 @@ El estado actual puede almacenarse en una cinta de memoria adicional, con un est
 - Los TM pueden tener un bucle infinito **indetectable** (los bucles infinitos se pueden detectar en los PDA)
 
 ## Temas de examen
-#todo 
 
 Definir una TM
 - con cintas infinitas a ambos extremos
