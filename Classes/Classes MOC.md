@@ -1,54 +1,15 @@
 # Classes MOC
 ## Informatica 1
-- [[Introduccion]]
-- [[Clase - Cadenas y lenguajes]]
-- [[Finite Automata]]
-	- [[FA - Definiciones formales]]
-	- [[FA - Ejercicio tipo Examen]]
-	- [[FA - Marble rolling game]]
-	- [[FA - Propiedades]]
-		- [[FA - Propiedades#Concepto de Cerradura Closure]]
-	- [[FA - Minimizacion de DFA]]
-	- [[NFA - FA No deterministico]]
-	- [[FA vs DFA - Equivalencia]]
-	- [[FA - FA-nula]]
-	- [[FA - Limitaciones]]
-- [[Regular Expressions]]
-- [[Push Down Automata]]
-	- [[PDA - Definiciones formales]]
-	- [[PDA - Teoremas]]
-	- [[PDA - NPDA]]
-- [[Gramaticas]]
-- [[Turing Machines]]
-	- [[K Tape TM - Definiciones formales]]
-	- [[TM - Variaciones]]
-	- [[TM - Calculo de funciones y reconocimiento de lenguajes]]
-- [[Computabilidad]]
-	- [[Enumeracion]]
-	- [[Ordenamiento de FAs]]
-	- [[Enumeracion de TM]]
-	- [[UTM y el Halting Problem]]
-	- [[Computabilidad avanzada]]
-	- [[Pertenencia a conjuntos]]
-	- [[Teorema de punto fijo]]
-- [[Complejidad]]
-	- [[Complejidad en Maquinas de Turing]]
-	- [[Complejidad de NTM]]
-	- [[Linear Speedup Theorem]]
-	- [[Complejidad - Limites practicos]]
+[[Informatica 1 MOC]]
+
+## Informatica 2
+[[Informatica 2 MOC]]
 
 ## Proyecto con Microprocesadores 1
-- [[Control de flujo en Assembly]]
-- [[Ejercicios Assembly]]
-- [[Subrutinas en Assembly]]
-- [[Project Euler on ARM Cortex-M4F]]
-- [[TP Final - Brainstorming]]
-- [[TP Final - Specifications]]
-- [[SysTick - Ejemplo]]
+[[Proyecto con Microprocesadores 1 MOC]]
 
 ## Redes de Computadoras 2
-- [[Multicasting]]
-- [[Mobile IP]]
+[[Redes de Computadoras 2 MOC]]
 
 ---
 #MOC 
