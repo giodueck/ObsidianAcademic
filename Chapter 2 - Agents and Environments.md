@@ -95,5 +95,14 @@ The real world is (of course) partially observable, stochastic, sequential, dyna
 
 ## Agent types
 Four basic types in increasing order of generality
-- simple reflex agents
-- ...
+- Simple reflex agents:
+	- capts some information from sensors and acts through its actuators according to some condition-action rules
+- Reflex agents with state:
+	- same as above, but keeps some information about the environment, which evolves with new information from sensors. The sensor input and internal state both influence the taken actions
+- Goal-based agents:
+	- keeps an internal state like the above agent, but now a goal determines the next action, and not a set of rules. Acts according to sensor input, internal state, how the world changes and what the goal is
+- Utility-based agents:
+	- Same as above, but instead of goals the leading metric is utility. Acts based on state and inputs and which action will maximize some utility function
+
+All these can be turned into learning agents.
+This is done using some performance element, judged by a critic whose feedback changes the behavior of the agent based on the learning goals.
