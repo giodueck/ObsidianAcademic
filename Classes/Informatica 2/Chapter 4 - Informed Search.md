@@ -81,10 +81,77 @@ Proof:
 ## Creating Admissible Heuristics
 Most of the work in solving hard search problems optimally is in coming up with admissible heuristics.
 
-Often, admissible heuristics are solutions to *relaxed problems*, where new actions are available
+Often, admissible heuristics are solutions to *relaxed problems*, where new actions are available.
 
-Inadmissible heuristics are often useful too
+Inadmissible heuristics are often useful too, some problems don't need an optimal solution.
 
 How about using the actual cost as a heuristic?
 - Calculation is expensive
-- This is what UCS already does
+
+A* is a trade-off between quality of estimate and work per node
+- As the heuristic gets closer to the true cost, you will expand fewer nodes but the computational cost will increase
+
+20-03-2023
+---
+
+## Semi-lattice of Heuristics
+### Trivial Heuristics, Dominance
+Dominance: $h_a \ge h_c$ if
+$\forall n: h_a(n) \ge h_c(n)$
+
+Heuristics form a semi-lattice:
+- Max of admissible heuristics is admissible
+$h(n) = \max(h_a(n), h_c(n))$
+
+Trivial Heuristics
+- Bottom of lattice is the zero heuristic (UCS)
+- Top of lattice is the exact heuristic
+
+## Graph search
+Tree search can cause extra work if it fails to detect repeated states (exponentially more work).
+
+In BFS, for example, we shouldn't bother expanding nodes representing states already visited since they will be more costly plans than the ones already expanded.
+
+Idea: never expand a state twice
+How to implementL
+- Tree search + set of expanded states ("closed set")
+- Expand search tree node by node
+- Before expanding a node, check to make sure its state has never been expanded before
+- If not new, skip it, if new add to closed set and expand
+
+Important: store the closed set as a set, not a list
+Can graph search wreck completeness?
+- Only nodes already expanded are ignored, every reachable state can still be eplored
+
+How about optimality?
+- Only non-optimal solutions (repeated states) are never found, all other solutions are found the same way as tree search
+
+## Consistency of Heuristics
+Main idea: estimated costs $\le$ actual costs
+- Admissibility: heuristic cost $\le$ actual cost to goal
+$h(A) \le$ actual cost from A to B
+- Consistency: heuristic "arc" cost $\le$ actual cost for each arc
+$h(A)-h(C) \le cost(A \ to \ C)$
+
+Consequences of consistency:
+- The f value ($g(n) + h(n)$) along a path never decreases
+$h(A) \le cost(A \ to \ C) + h(C)$
+- A* graph search is optimal
+
+## Optimality of A* Graph Search
+Sketch: Consider what A* does with a consistent heuristic:
+1. In tree search, A* expands nodes in increasing total f value (f-contours)
+2. For every state s, nodes that reach s optimally are expanded before nodes that reach s suboptimally
+- Result: A* graph search is optimal
+
+Tree search:
+- A* is optimal if heuristic is admissible
+- UCS is a special case ($h = 0$)
+
+Graph search:
+- A* is optimal if heuristic is admissible and consistent
+- UCS optimal ($h = 0$ is consistent)
+
+Consistency implies admissibility.
+
+In general, most natural admissible heuristics tend to be consistent, especially from relaxed problems.
