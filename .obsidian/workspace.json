@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "96b19cf1a5ccbcd8",
+            "id": "53b87589829f983c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 2/Chapter 4 - Informed Search.md",
+                "file": "Chapter 6 - Game Playing.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 2/Chapter 4 - Informed Search.md",
+                "file": "Chapter 6 - Game Playing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,9 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96b19cf1a5ccbcd8",
+  "active": "53b87589829f983c",
   "lastOpenFiles": [
     "Classes/Informatica 2/Informatica 2 MOC.md",
+    "Chapter 6 - Game Playing.md",
     "Classes/Informatica 2/Chapter 4 - Informed Search.md",
     "Classes/Classes MOC.md",
     "Classes/Compiladores/Compiladores MOC.md",

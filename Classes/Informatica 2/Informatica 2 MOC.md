@@ -3,6 +3,7 @@
 - [[Chapter 2 - Agents and Environments]]
 - [[Chapter 3 - Search]]
 - [[Chapter 4 - Informed Search]]
+- [[Chapter 6 - Game Playing]]
 
 ---
 #MOC 
