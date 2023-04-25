@@ -15,5 +15,8 @@
 ## Redes de Computadoras 2
 [[Redes de Computadoras 2 MOC]]
 
+## Sistemas Paralelos y Distribuidos
+[[Sistemas Paralelos y Distribuidos MOC]]
+
 ---
 #MOC 
