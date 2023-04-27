@@ -75,3 +75,8 @@ Tournament selection:
 
 Tournaments are less costly as not all individuals need their fitness evaluated, and every individual has a chance of winning no matter where it would rank in fitness. Selection pressure can be increased by increasing k.
 Supposedly works better in parallel implementations.
+
+### Parallelization
+- Fitness function if all are evaluated
+- Parallel tournaments
+- Several sequential runs in parallel with a merge of populations every N generations
