@@ -57,9 +57,21 @@ Types: defined by the half copied from the first parent
 - Head and tail quarters
 
 ### Selection process
+Truncation selection:
 1. Fitness test of entire population
 2. Selection of top 50%
 3. Some elitist selection for top solutions (next generation are unconditional clones)
-4. Some random crossovers (next generation are crossovers)
+4. Some (or all) of the next generation
 5. The rest are clones
-6. All new individuals (except elite) have a random chance of mutation
+6. All new individuals have a random chance of mutation
+
+Tournament selection:
+1. Select k individuals at random
+2. Compare fitness of selected solutions
+3. Select the top solution for breeding
+4. Repeat for another candidate and cross solutions to form new offspring
+5. Apply random mutation
+6. Replace population with new offspring, except for elite
+
+Tournaments are less costly as not all individuals need their fitness evaluated, and every individual has a chance of winning no matter where it would rank in fitness. Selection pressure can be increased by increasing k.
+Supposedly works better in parallel implementations.
