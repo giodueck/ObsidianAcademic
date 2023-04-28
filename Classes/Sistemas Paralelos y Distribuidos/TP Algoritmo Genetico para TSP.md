@@ -77,6 +77,14 @@ Tournaments are less costly as not all individuals need their fitness evaluated,
 Supposedly works better in parallel implementations.
 
 ### Parallelization
+Possible places to parallelize include:
 - Fitness function if all are evaluated
 - Parallel tournaments
 - Several sequential runs in parallel with a merge of populations every N generations
+
+#### Island model
+The last parallelization option listed is also known as the *island model*, named after real-life populations that are isolated from each other on islands.
+
+These populations can be evolved in parallel and crossed at one or several midpoints during evolution. Different populations will have different genetic history, and crossover may give new variety to both populations.
+
+Another possibility is having different strategies for different islands, which may increase diversity even more with crossovers.
