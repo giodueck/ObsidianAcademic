@@ -6,6 +6,7 @@
 - [[Chapter 6 - Game Playing]]
 - [[Chapter 7 - Logical Agents]]
 	- [[Ejercicio de deduccion logica]]
+- [[Ejercicio de demostracion FOL]]
 
 ---
 #MOC 
