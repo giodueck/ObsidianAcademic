@@ -83,6 +83,18 @@ These populations can be evolved in parallel and crossed at one or several midpo
 
 Another possibility is having different strategies for different islands, which may increase diversity even more with crossovers.
 
+#### MPI
+Islands are assigned to individual nodes, which evolve the population for a set amount of generations.
+
+For crossover between islands either:
+- Send whole population from slaves to master node, then crossover in master
+- From master send requests for solutions, and send children back immediately
+- Pair up islands randomly, perform crossover between them.
+
+The first solution is simpler but will involve sending many solutions in bulk, crossing them in a single node, then sending the crossed populations back to the slaves.
+The second is the same, but randomly accessed instead. The result will be the same, but possibly slower and more convoluted.
+The third solution avoids the bottleneck of having a single master handling all crossover between islands, instead having it only coordinate how the slaves cross between each other.
+
 ### Implementation details
 #### Parameters
 - Population size: how many solutions are part of each generation
