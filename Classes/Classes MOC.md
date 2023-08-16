@@ -12,6 +12,9 @@
 ## Informatica 2
 [[Informatica 2 MOC]]
 
+## Informatica 3
+[[Informatica 3 MOC]]
+
 ## Proyecto con Microprocesadores 1
 [[Proyecto con Microprocesadores 1 MOC]]
 
