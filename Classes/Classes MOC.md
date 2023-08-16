@@ -3,6 +3,9 @@
 ## Compiladores
 [[Compiladores MOC]]
 
+## Complementos de Informatica
+[[Complementos de Informatica MOC]]
+
 ## Informatica 1
 [[Informatica 1 MOC]]
 
