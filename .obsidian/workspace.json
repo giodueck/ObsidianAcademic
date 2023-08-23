@@ -4,67 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7df48fbc0db6dd4e",
+        "id": "d381cbf85f5884e8",
         "type": "tabs",
         "children": [
           {
-            "id": "d5e84e1bdcddb462",
+            "id": "ac42577128c35030",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Classes MOC.md",
+                "file": "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "422e8ffcb5ea531c",
+            "id": "7f230e92076a46dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 3/Informatica 3 MOC.md",
+                "file": "Classes/Complementos de Informatica/MDA.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "56dfbe9020440471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Informatica 3/Introduccion Informatica 3.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "2a9c173cf6179874"
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "952aed7ad885cbe6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b1dd2d71b65e7ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Informatica 3/Introduccion Informatica 3.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "2a9c173cf6179874"
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:todo",
+                "query": "tag:#MOC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +72,7 @@
             }
           },
           {
-            "id": "b2865033ebd3b5d5",
+            "id": "7a8b276475e57c53",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -149,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 3/Introduccion Informatica 3.md",
+                "file": "Classes/Complementos de Informatica/MDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +129,7 @@
             }
           },
           {
-            "id": "cb04254f929be7e0",
+            "id": "f677738b570f9fbc",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,39 +152,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1dd2d71b65e7ab6",
+  "active": "7f230e92076a46dd",
   "lastOpenFiles": [
-    "Classes/Informatica 3/Informatica 3 MOC.md",
+    "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
+    "Classes/Complementos de Informatica/MDA.md",
     "Classes/Informatica 3/Introduccion Informatica 3.md",
+    "Classes/Informatica 3/Informatica 3 MOC.md",
     "Classes/Informatica 3",
-    "Classes/Classes MOC.md",
-    "Classes/Sistemas Paralelos y Distribuidos/TP Algoritmo Genetico para TSP.md",
     "Classes/Complementos de Informatica/MDE.md",
     "Classes/Complementos de Informatica/Introduccion Complementos.md",
-    "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
+    "Untitled.md",
+    "Classes/Classes MOC.md",
+    "Classes/Informatica 1/Introduccion.md",
+    "Classes/Informatica 1/Informatica 1 MOC.md",
+    "Classes/Compiladores/Compiladores MOC.md",
     "Classes/Complementos de Informatica",
     "Classes/Compiladores/TP Final - C to Groovy.md",
+    "Classes/Sistemas Paralelos y Distribuidos/TP Algoritmo Genetico para TSP.md",
     "Classes/Sistemas Paralelos y Distribuidos/Sistemas Paralelos y Distribuidos MOC.md",
-    "Index.md",
-    "README.md",
+    "Classes/Informatica 2/Informatica 2 MOC.md",
+    "Ejercicio de demostracion FOL.md",
     "Classes/Informatica 2/Ejercicio de demostracion FOL.md",
     "Classes/Informatica 2/Chapter 6 - Game Playing.md",
-    "Classes/Informatica 2/Ejercicio de deduccion logica.md",
-    "Classes/Informatica 2/Chapter 7 - Logical Agents.md",
-    "Classes/Informatica 2/Informatica 2 MOC.md",
-    "Classes/Informatica 1/Informatica 1 MOC.md",
-    "Classes/Sistemas Paralelos y Distribuidos",
-    "Untitled.canvas",
-    "Classes/Informatica 2/Chapter 6 - Game Playing.md",
-    "Classes/Informatica 2/Chapter 4 - Informed Search.md",
-    "Classes/Compiladores/Compiladores MOC.md",
-    "Classes/Compiladores/Conversion de Expresion Regular (RE) a AFN (NFA).md",
-    "Classes/Redes de Computadoras 2/Redes de Computadoras 2 MOC.md",
-    "Classes/Compiladores",
-    "Classes/Informatica 2/Chapter 3 - Search.md",
-    "Untitled.md",
-    "Classes/Informatica 2/Chapter 2 - Agents and Environments.md",
-    "Classes/Proyecto con Microprocesadores 1/Proyecto con Microprocesadores 1 MOC.md",
-    "Classes/Informatica 2"
+    "Classes/Informatica 1/FA - Propiedades.md",
+    "Classes/Informatica 1/FA - FA-nula.md",
+    "Classes/Informatica 1/NFA - FA No deterministico.md",
+    "Classes/Informatica 1/FA - Definiciones formales.md",
+    "Classes/Informatica 1/FA vs DFA - Equivalencia.md",
+    "Classes/Informatica 1/FA - Ejercicio tipo Examen.md",
+    "Classes/Informatica 1/Finite Automata.md",
+    "Classes/Informatica 1/FA - Marble rolling game.md"
   ]
 }
