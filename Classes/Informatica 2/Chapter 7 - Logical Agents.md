@@ -52,8 +52,7 @@ Entailment - needle in haystack; inference - fincding it
 
 Soundness: $i$ is sound if whenever $FB \vdash \alpha$, it is also true that $KB \vdash_i \alpha$
 
-Completeness: $i$ is complete if whenever #todo completar ppt
+Completeness: $i$ is complete if whenever #incomplete 
 
 ## Propositional logic
-#todo completar ppt
-
+#incomplete

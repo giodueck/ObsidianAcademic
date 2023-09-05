@@ -7,7 +7,7 @@
 	- Hello World
 	- Métodos para pintar pixeles
 	- Métodos para captar entradas
-	- Explicación de codigo: Curvas de Bezier
+	- Explicación de codigo: [[Curvas de Bezier]]
 
 ## Introducción: olc::PixelGameEngine
 https://github.com/OneLoneCoder/olcPixelGameEngine

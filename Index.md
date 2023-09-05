@@ -14,5 +14,8 @@ But these concept notes need organization, start searching here.
 ## Useful
 [[LaTeX Cheatsheet]]
 
+## Templates
+[[Template MOC]]
+
 ---
 #MOC 

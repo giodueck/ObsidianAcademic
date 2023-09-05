@@ -35,6 +35,7 @@
 	- [[Complejidad de NTM]]
 	- [[Linear Speedup Theorem]]
 	- [[Complejidad - Limites practicos]]
+- [[Temario Info 1]]
 
 ---
 #MOC 
