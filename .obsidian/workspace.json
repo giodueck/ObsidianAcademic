@@ -13,44 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Informatica 3/Informatica 3 MOC.md",
+                "file": "Classes/Informatica 3/Introduccion a PGE.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "1cf994917518e355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Informatica 3/Curvas de Bezier.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "e0235b833e0f08d4"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "98e32f758ad7d8f7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2740e1a652eb0587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Informatica 3/Curvas de Bezier.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "e0235b833e0f08d4"
           }
         ]
       }
@@ -137,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 3/Curvas de Bezier.md",
+                "file": "Classes/Informatica 3/Introduccion a PGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,14 +139,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cf994917518e355",
+  "active": "ac42577128c35030",
   "lastOpenFiles": [
-    "Bézier_3_big.gif",
-    "img/Bézier_2_big.svg.png",
+    "Classes/Informatica 3/Informatica 3 MOC.md",
+    "Classes/Informatica 3/Introduccion a PGE.md",
     "Classes/Informatica 3/Curvas de Bezier.md",
+    "LaTeX Cheatsheet.md",
+    "img/Bézier_3_big.gif",
+    "img/Bézier_2_big.svg.png",
     "img/Bézier_1_big.gif",
     "img/Bézier_2_big.gif",
-    "Classes/Informatica 3/Informatica 3 MOC.md",
     "Classes/Classes MOC.md",
     "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
     "Classes/Complementos de Informatica/MDA.md",
@@ -203,7 +172,6 @@
     "Classes/Informatica 1/FA - FA-nula.md",
     "Classes/Informatica 1/NFA - FA No deterministico.md",
     "Classes/Informatica 1/FA - Definiciones formales.md",
-    "Classes/Informatica 1/FA vs DFA - Equivalencia.md",
-    "Classes/Informatica 1/FA - Ejercicio tipo Examen.md"
+    "Classes/Informatica 1/FA vs DFA - Equivalencia.md"
   ]
 }
