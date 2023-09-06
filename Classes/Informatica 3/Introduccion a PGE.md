@@ -1,6 +1,6 @@
 05-09-2023
 ---
-# Introduccion a PGE
+# Introduccion a olc::PixelGameEngine
 
 ## Contenido
 - Introducción a PGE
@@ -9,7 +9,7 @@
 	- Métodos para captar entradas
 	- Explicación de codigo: [[Curvas de Bezier]]
 
-## Introducción: olc::PixelGameEngine
+## Introducción: olc::PGE
 https://github.com/OneLoneCoder/olcPixelGameEngine
 
 Motor de gráficos minimalista, rápido y cross-platform en un archivo: **olcPixelGameEngine.h**
