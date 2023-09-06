@@ -7,7 +7,7 @@
 	- Que son
 	- Construcción recursiva (Metodo de Casteljau)
 	- Algoritmo de Bézier
-	- Demostración
+	- Demo
 
 ## Curvas de Bézier
 ### Qué son
@@ -56,7 +56,7 @@ $B(t) = (1-t)^2 P_0 + 2(1-t) t P_1 + t^2 P_2$
 #### Curvas cúbicas
 $B(t) = (1-t)^3 P_0 + 3(1-t)^2 t P_1 + 3 (1-t) t^2 P_2 + t^3 P_3$
 
-## Demostración
+## Demo
 ```cpp
 for (float t = 0; t <= 1; t += interval)
 {

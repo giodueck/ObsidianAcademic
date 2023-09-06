@@ -13,9 +13,7 @@ Additional components
 - *Extension* of the language by new concepts
 - *Mapping* to other languages, domains
 
-## Abstract syntax
-
-### Metamodel-centric language design
+## Metamodel-centric language design
 All language aspects base on the abstract syntax of the language defined by its metamodel
 
 Advantages in language design:
@@ -27,7 +25,7 @@ Advantages in language design:
 
 MOF, with Ecore as its implementation, is considered as a universally accepted meta-metamodel
 
-### MOF: Meta Object Family
+## MOF: Meta Object Family
 OMG standard for the definition of metamodels
 
 *Object-oriented* modeling language:
