@@ -5,20 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#MOC ",
+      "query": "tag:#MOC  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#todo  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
+        "rgb": 5405920
       }
     }
   ],

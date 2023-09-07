@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d381cbf85f5884e8",
+        "id": "66b3d0a7c33c8721",
         "type": "tabs",
         "children": [
           {
-            "id": "ac42577128c35030",
+            "id": "94f1e5344cf200e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Informatica 3/Curvas de Bezier.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5878d31502dcd75a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Informatica 3/Introduccion a PGE.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOC",
+                "query": "tag:todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +55,7 @@
             }
           },
           {
-            "id": "7a8b276475e57c53",
+            "id": "b2865033ebd3b5d5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Informatica 3/Curvas de Bezier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +111,7 @@
             }
           },
           {
-            "id": "f677738b570f9fbc",
+            "id": "cb04254f929be7e0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -151,39 +134,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac42577128c35030",
+  "active": "73d7a86ea191b5bc",
   "lastOpenFiles": [
+    "img/Bézier_3_big.gif",
+    "img/Bézier_2_big.gif",
+    "img/Bézier_1_big.gif",
+    "Template MOC.md",
     "Classes/Informatica 3/Introduccion a PGE.md",
     "Classes/Informatica 3/Curvas de Bezier.md",
-    "Classes/Complementos de Informatica/Developing your own Modeling Language.md",
-    "Classes/Classes MOC.md",
-    "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
     "Classes/Complementos de Informatica/MDA.md",
-    "Classes/Informatica 1/Informatica 1 MOC.md",
-    "Index.md",
-    "Classes/Informatica 2/Chapter 7 - Logical Agents.md",
-    "Template MOC.md",
-    "Templates/Note header.md",
-    "Templates/Note addition.md",
-    "Templates/Concept.md",
-    "img/Bézier_1_big.gif",
-    "Classes/Informatica 3/Informatica 3 MOC.md",
-    "LaTeX Cheatsheet.md",
-    "img/Bézier_3_big.gif",
-    "img/Bézier_2_big.svg.png",
-    "img/Bézier_2_big.gif",
+    "Classes/Complementos de Informatica/Developing your own Modeling Language.md",
     "Classes/Informatica 3/Introduccion Informatica 3.md",
+    "Classes/Informatica 3/Informatica 3 MOC.md",
+    "Classes/Classes MOC.md",
     "Classes/Informatica 3",
+    "Classes/Sistemas Paralelos y Distribuidos/TP Algoritmo Genetico para TSP.md",
     "Classes/Complementos de Informatica/MDE.md",
     "Classes/Complementos de Informatica/Introduccion Complementos.md",
-    "Untitled.md",
-    "Classes/Informatica 1/Introduccion.md",
-    "Classes/Compiladores/Compiladores MOC.md",
+    "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
     "Classes/Complementos de Informatica",
     "Classes/Compiladores/TP Final - C to Groovy.md",
-    "Classes/Sistemas Paralelos y Distribuidos/TP Algoritmo Genetico para TSP.md",
     "Classes/Sistemas Paralelos y Distribuidos/Sistemas Paralelos y Distribuidos MOC.md",
+    "Index.md",
+    "README.md",
+    "Classes/Informatica 2/Ejercicio de demostracion FOL.md",
+    "Classes/Informatica 2/Chapter 6 - Game Playing.md",
+    "Classes/Informatica 2/Ejercicio de deduccion logica.md",
+    "Classes/Informatica 2/Chapter 7 - Logical Agents.md",
     "Classes/Informatica 2/Informatica 2 MOC.md",
-    "Ejercicio de demostracion FOL.md"
+    "Classes/Informatica 1/Informatica 1 MOC.md",
+    "Classes/Sistemas Paralelos y Distribuidos",
+    "Untitled.canvas",
+    "Classes/Informatica 2/Chapter 6 - Game Playing.md",
+    "Classes/Informatica 2/Chapter 4 - Informed Search.md",
+    "Classes/Compiladores/Compiladores MOC.md",
+    "Classes/Compiladores",
+    "Classes/Informatica 2"
   ]
 }
