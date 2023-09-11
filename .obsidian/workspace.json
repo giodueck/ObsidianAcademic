@@ -11,8 +11,12 @@
             "id": "50c8c171868e34b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Complementos de Informatica/TP DM - Entregable 1.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Classes/Complementos de Informatica/TP DM - Entregable 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,20 +139,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f677738b570f9fbc",
+  "active": "50c8c171868e34b6",
   "lastOpenFiles": [
+    "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
+    "Classes/Complementos de Informatica/TP DM - Entregable 1.md",
+    "Classes/Classes MOC.md",
+    "Classes/Compiladores/Compiladores MOC.md",
+    "Index.md",
+    "Template MOC.md",
     "Classes/Informatica 3/Introduccion Informatica 3.md",
     "Classes/Informatica 3/Informatica 3 MOC.md",
     "Classes/Informatica 3/Curvas de Bezier.md",
     "Classes/Informatica 3/Introduccion a PGE.md",
     "Classes/Complementos de Informatica/Developing your own Modeling Language.md",
-    "Classes/Classes MOC.md",
-    "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
     "Classes/Complementos de Informatica/MDA.md",
     "Classes/Informatica 1/Informatica 1 MOC.md",
-    "Index.md",
     "Classes/Informatica 2/Chapter 7 - Logical Agents.md",
-    "Template MOC.md",
     "Templates/Note header.md",
     "Templates/Note addition.md",
     "Templates/Concept.md",
@@ -161,12 +168,10 @@
     "Classes/Complementos de Informatica/Introduccion Complementos.md",
     "Untitled.md",
     "Classes/Informatica 1/Introduccion.md",
-    "Classes/Compiladores/Compiladores MOC.md",
     "Classes/Complementos de Informatica",
     "Classes/Compiladores/TP Final - C to Groovy.md",
     "Classes/Sistemas Paralelos y Distribuidos/TP Algoritmo Genetico para TSP.md",
     "Classes/Sistemas Paralelos y Distribuidos/Sistemas Paralelos y Distribuidos MOC.md",
-    "Classes/Informatica 2/Informatica 2 MOC.md",
-    "Ejercicio de demostracion FOL.md"
+    "Classes/Informatica 2/Informatica 2 MOC.md"
   ]
 }
