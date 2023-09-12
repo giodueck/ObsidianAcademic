@@ -24,5 +24,8 @@
 ## Sistemas Paralelos y Distribuidos
 [[Sistemas Paralelos y Distribuidos MOC]]
 
+## Teoria y Aplicacion de la Informatica
+[[TP TAI 2 - Propuesta de tema]]
+
 ---
 #MOC 
