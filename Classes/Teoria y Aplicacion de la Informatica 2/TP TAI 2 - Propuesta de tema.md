@@ -27,7 +27,7 @@ Un ataque destructivo sobre la red eléctrica dejó a más de 200.000 ucranianos
 Ataque sobre el banco de Bangladesh ejecutado por un grupo norcoreano. Resultó en transferencias SWIFT ilegales de alrededor de US$1000 millones.
 
 ### 2016: Hackeo de Equation Group
-Equation Group, un APT asociado con la NSA de los EE.UU., fue hackeado por un grupo tercero. Resultó en el filtrado de varias vulnerabilidades graves y desconocidas que afectaban a varios productos muy establecidos, como el SO Windows. Las vulnerabilidades fueron aprovechadas por varios APTs, el más incidente más conocido siendo el ataque Wanacry, provocando preocupaciones sobre la tendencia de acumular vulerabilidades para su uso como "ciber-armas" por la NSA.
+Equation Group, un APT asociado con la NSA de los EE.UU., fue hackeado por un grupo tercero. Resultó en el filtrado de varias vulnerabilidades graves y desconocidas que afectaban a varios productos muy establecidos, como el SO Windows. Las vulnerabilidades fueron aprovechadas por varios APTs, el incidente más conocido siendo el ataque Wanacry, provocando preocupaciones sobre la tendencia de acumular vulerabilidades para su uso como "ciber-armas" por la NSA.
 
 ### 2017: Ransomware WanaCry
 El ataque WanaCry fue un ataque global en el que un malware sofisticado encriptó y tomó como rehenes a los datos de computadoras infectadas. Se considera que fue orquestrado por un grupo de Corea del Norte.
@@ -36,7 +36,7 @@ El ataque WanaCry fue un ataque global en el que un malware sofisticado encript�
 Un ataque centrado en Ucrania dejó a una gran cantidad de empresas nacionales e internacionales en crisis, luego de causar pérdidas de datos masivos y devastación en la disponibilidad de sistemas informáticos por medio de un ataque destructivo usando malware similar a otro ya existente, llamado "Petya".
 
 ### 2018: Apertura de juegos olímpicos de invierno
-La apertura de los juegos olímpicos de invierno, realizada en Corea del Sur, se vió afligida por un ataque severo por atacantes rusos. El ataque buscaba destruir la infraestructura informática del evento, afectando tanto a los usuarios de la aplicación usada por los turistas e hinchas del evento como a los servicios de WiFi y televisión del evento. Fue única en que el grupo usó tecnicas propias de otros APTs para intentar disfrazar el ataque como proviniente de otro grupo.
+La apertura de los juegos olímpicos de invierno, realizada en Corea del Sur, se vió afligida por un ataque severo por atacantes rusos. El ataque buscaba destruir la infraestructura informática del evento, afectando tanto a la aplicación usada por los turistas e hinchas para los boletos como a los servicios de WiFi y televisión del evento. Fue única en que el grupo usó tecnicas propias de otros APTs para intentar disfrazar el ataque como proviniente de otro grupo.
 
 ### 2022: Axie Infinity
 El juego basado en criptomonedas fue hackeado y más de US$600 millones fueron robados. El ataque se atribuyó a Corea del Norte.
