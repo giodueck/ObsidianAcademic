@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "54f656434c98b4e3",
+        "id": "de0c480601cb816b",
         "type": "tabs",
         "children": [
           {
-            "id": "d3da324375d0d4c9",
+            "id": "c799a302b6fb18ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Classes/Complementos de Informatica/TP DM - Entregable 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -149,8 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3da324375d0d4c9",
+  "active": "c799a302b6fb18ff",
   "lastOpenFiles": [
+    "Classes/Complementos de Informatica/TP DM - Entregable 1.md",
     "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
     "Classes/Classes MOC.md",
     "Index.md",
@@ -158,7 +159,6 @@
     "Classes/Complementos de Informatica/Practica 2 - MOF y OCL.md",
     "LaTeX Cheatsheet.md",
     "Classes/Teoria y Aplicacion de la Informatica 2",
-    "Classes/Complementos de Informatica/TP DM - Entregable 1.md",
     "Classes/Informatica 1/FA - FA-nula.md",
     "Classes/Informatica 1/Informatica 1 MOC.md",
     "Classes/Informatica 1/Push Down Automata.md",

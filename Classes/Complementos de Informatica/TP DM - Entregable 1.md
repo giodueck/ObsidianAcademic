@@ -39,7 +39,7 @@ La resolución N° 978/22 de la DNA establece la misión, la visión y la declar
 
 ### Valoración de la situación
 #### Inventario de recursos
-#todo Tomar total de ingresos percibidos en un mes, y asumir que es la mitad del potencial monto percibido si se hubiese detectado cada intento de fraude.
+La aduana cuenta con una colección de datos abiertos sobre despachos para cada mes. Actualmente se registran alrededor de 350,000 despachos por mes, clasificados por importacion o exportacion, despachante, rubro de la mercaderia, fechas y montos relacionados al despacho, entre otros datos.
 
 #### Requisitos, supuestos y restricciones
 **Requisitos**: Detección y prevencion de un 20% de los casos de fraude en la Aduana.
