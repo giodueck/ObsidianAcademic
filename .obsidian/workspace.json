@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de0c480601cb816b",
+        "id": "d5e923f46d629071",
         "type": "tabs",
         "children": [
           {
-            "id": "c799a302b6fb18ff",
+            "id": "0c005fcab7534eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Propuesta de tema.md",
-                "mode": "preview",
+                "file": "TP TAI 2 - Bosquejo.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Propuesta de tema.md",
+                "file": "TP TAI 2 - Bosquejo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,13 +149,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb04254f929be7e0",
+  "active": "0c005fcab7534eac",
   "lastOpenFiles": [
+    "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Propuesta de tema.md",
+    "TP TAI 2 - Bosquejo.md",
     "Classes/Classes MOC.md",
     "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
     "Classes/Complementos de Informatica/TP DM - Entregable 1.md",
     "Index.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Propuesta de tema.md",
     "Classes/Complementos de Informatica/Practica 2 - MOF y OCL.md",
     "LaTeX Cheatsheet.md",
     "Classes/Teoria y Aplicacion de la Informatica 2",
@@ -183,7 +183,6 @@
     "README.md",
     "Classes/Informatica 2/Ejercicio de demostracion FOL.md",
     "Classes/Informatica 2/Chapter 6 - Game Playing.md",
-    "Classes/Informatica 2/Ejercicio de deduccion logica.md",
     "Classes/Sistemas Paralelos y Distribuidos",
     "Untitled.canvas",
     "Classes/Compiladores",
