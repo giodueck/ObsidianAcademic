@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fec1c9ce06873c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Propuesta de tema.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "0c005fcab7534eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TP TAI 2 - Bosquejo.md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TP TAI 2 - Bosquejo.md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,7 @@
   "active": "0c005fcab7534eac",
   "lastOpenFiles": [
     "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Propuesta de tema.md",
-    "TP TAI 2 - Bosquejo.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
     "Classes/Classes MOC.md",
     "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
     "Classes/Complementos de Informatica/TP DM - Entregable 1.md",
