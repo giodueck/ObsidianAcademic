@@ -27,6 +27,7 @@
 ## Teoria y Aplicacion de la Informatica
 [[TP TAI 2 - Propuesta de tema]]
 [[TP TAI 2 - Bosquejo]]
+[[APTs - Definiciones y glosario]]
 
 ---
 #MOC 
