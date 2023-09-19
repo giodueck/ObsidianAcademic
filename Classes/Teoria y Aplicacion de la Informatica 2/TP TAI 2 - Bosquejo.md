@@ -4,7 +4,7 @@
 
 ## Bosquejo
 1. Definiciones y glosario
-2. Diferencias con otros movimientos hacker (hacktivism, cybercrime gangs, hidden markets)
+2. Diferencias con otras entidades (hacktivism, cybercrime gangs, hidden markets)
 3. APTs (listar algunos y describir brevemente los mayores APTs: capacidades y motivaciones)
 	1. China
 	2. Corea del Norte
