@@ -28,11 +28,15 @@ Fueron nombrados por el Departamento de Justicia de los EE.UU. por haber comprom
 > https://www.zdnet.com/article/us-charges-five-hackers-part-of-chinese-state-sponsored-group-apt41/
 
 ## Corea del Norte
-### Lazarus Group
-#### Sony
-#### Banco de Bangladesh
-#### WannaCry
-#### Axie Infinity
+### APT38: Lazarus Group
+Lazarus Group es un grupo norcoreano designado tanto como APT como grupo criminal. Algunos investigadores reportan todos los casos de ataques provinientes de Corea del Norte bajo el nombre Lazarus Group, sin importar si provienen de algún subgrupo, como APT37 o Kimsuky.
+
+Sus ataques más infames incluyen el ataque destructivo a Sony, robo al Banco de Bangladesh y el ransomware WannaCry.
+
+> [!cite]-
+> https://attack.mitre.org/groups/G0032/
+> https://www.bloomberg.com/news/features/2017-08-03/a-baccarat-binge-helped-launder-the-world-s-biggest-cyberheist
+> https://www.theguardian.com/technology/2017/may/15/wannacry-ransomware-north-korea-lazarus-group
 
 ## EE.UU.
 ### Equation Group
