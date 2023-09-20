@@ -31,7 +31,7 @@ Fueron nombrados por el Departamento de Justicia de los EE.UU. por haber comprom
 ### APT38: Lazarus Group
 Lazarus Group es un grupo norcoreano designado tanto como APT como grupo criminal. Algunos investigadores reportan todos los casos de ataques provinientes de Corea del Norte bajo el nombre Lazarus Group, sin importar si provienen de algún subgrupo, como APT37 o Kimsuky.
 
-Sus ataques más infames incluyen el ataque destructivo a Sony, robo al Banco de Bangladesh y el ransomware WannaCry.
+Sus ataques más infames incluyen el ataque destructivo a Sony, robo al Banco de Bangladesh y el ransomware WannaCry. Sus operaciones son generalmente actos de espionaje, robos de información y crímenes financieros.
 
 > [!cite]-
 > https://attack.mitre.org/groups/G0032/
