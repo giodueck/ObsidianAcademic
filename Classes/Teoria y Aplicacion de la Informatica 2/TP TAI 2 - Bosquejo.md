@@ -3,16 +3,15 @@
 # TP TAI 2 - Bosquejo
 
 ## Bosquejo
-1. Definiciones y glosario
-2. Diferencias con otras entidades (hacktivism, cybercrime gangs, hidden markets)
-3. APTs (listar algunos y describir brevemente los mayores APTs: capacidades y motivaciones)
+1. [[APTs - Definiciones y glosario|Definiciones y glosario]]
+2. [[APTs - Listado|APTs]] (listar algunos y describir brevemente los mayores APTs: capacidades y motivaciones)
 	1. China
 	2. Corea del Norte
 	3. EE.UU.
 	4. Iran
 	5. Israel
 	6. Rusia
-4. Eventos
+3. Eventos
 	1. Moonlight Maze (1990s)
 	2. Titan Rain (2000s)
 	3. Stuxnet (2010)
@@ -28,7 +27,7 @@
 	13. Wannacry (2017)
 	14. Olympic Destroyer (2018)
 	15. Axie Infinity (2022)
-5. Conclusion
+4. Conclusion
 
 ## APTs
 1. EE.UU.
