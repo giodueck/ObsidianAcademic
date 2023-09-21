@@ -24,11 +24,8 @@
 ## Sistemas Paralelos y Distribuidos
 [[Sistemas Paralelos y Distribuidos MOC]]
 
-## Teoria y Aplicacion de la Informatica
-[[TP TAI 2 - Propuesta de tema]]
-[[TP TAI 2 - Bosquejo]]
-[[APTs - Definiciones y glosario]]
-[[APTs - Listado]]
+## Teoria y Aplicacion de la Informatica 2
+[[Teoria y Aplicacion de la Informatica 2 MOC]]
 
 ---
 #MOC 
