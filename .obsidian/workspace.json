@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Definiciones y glosario.md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain.md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,15 +161,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dbc27205106e356",
+  "active": "0c005fcab7534eac",
   "lastOpenFiles": [
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/Teoria y Aplicacion de la Informatica 2 MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Definiciones y glosario.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Moonlight Maze.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/Teoria y Aplicacion de la Informatica 2 MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Listado.md",
     "Classes/Classes MOC.md",
     "Index.md",
