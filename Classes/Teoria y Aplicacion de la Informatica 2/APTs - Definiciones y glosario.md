@@ -86,6 +86,21 @@ Malware independiente que se reproduce para alcanzar a otras computadoras. Típi
 > [!cite]-
 > https://www.avast.com/c-worm-vs-virus
 
+## Ingeniería Social
+Cualquier acto que intente o logre influenciar a una persona a actuar de una manera que pueda o no ser de beneficio es un acto de ingeniería social. La principal forma de ingeniería social en la ciberseguridad es el phishing, pero también existen técnicas que involucran hacerse pasar por otra persona, llamadas de voz o mensajes SMS.
+
+> [!cite]-
+> https://www.social-engineer.org/framework/general-discussion/social-engineering-defined/
+
+## Phishing
+Phishing proviene de "fishing" en inglés, y consiste en una táctica de ingeniería social para "pescar" víctimas mediante un engaño. La forma más típica es mediante un correo electrónico, en el cual el atacante intenta parecer lo más cercanamente posible a algún servicio legítimo o alguna persona de confianza, con el fin de vulnerar a la víctima de alguna forma.
+
+Spear-phishing es una variante del phishing con un enfoque muy preciso en cuanto a su objetivo, mientras que campañas de phishing típicas suelen no ser muy selectivas.
+
+> [!cite]-
+> https://www.bbc.com/mundo/noticias-47212337
+> https://web.archive.org/web/20140811102334/http://www.firmex.com/blog/spear-phishing-whos-getting-caught/
+
 ## Zero-Day
 Un Zero-day es una vulnerabilidad en un sistema informático que previamente era desconocida. El nombre se refiere al tiempo que un proveedor conoce la vulnerabilidad.
 

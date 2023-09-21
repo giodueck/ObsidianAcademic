@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Definiciones y glosario.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APTs - Eventos MOC.md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain.md",
                 "mode": "source",
                 "source": true
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APTs - Eventos MOC.md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,14 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fec1c9ce06873c44",
+  "active": "6dbc27205106e356",
   "lastOpenFiles": [
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Definiciones y glosario.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Moonlight Maze.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
-    "APTs - Eventos MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/Teoria y Aplicacion de la Informatica 2 MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Listado.md",
     "Classes/Classes MOC.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Definiciones y glosario.md",
     "Index.md",
     "Computer Science/Computer Science MOC.md",
     "README.md",
@@ -191,9 +194,6 @@
     "Template MOC.md",
     "Classes/Informatica 3/Introduccion a PGE.md",
     "Classes/Complementos de Informatica/MDA.md",
-    "Classes/Complementos de Informatica/Developing your own Modeling Language.md",
-    "Classes/Informatica 3/Introduccion Informatica 3.md",
-    "Classes/Informatica 3/Informatica 3 MOC.md",
     "Classes/Informatica 3",
     "Classes/Complementos de Informatica",
     "Classes/Sistemas Paralelos y Distribuidos",
