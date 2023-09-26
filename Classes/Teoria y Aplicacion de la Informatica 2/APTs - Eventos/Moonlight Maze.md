@@ -5,7 +5,7 @@
 > [!cite]-
 > https://securelist.com/penquins-moonlit-maze/77883/
 > https://securelist.com/the-epic-turla-operation/65545/
-> https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064459/Equation_group_questions_and_answers.pdf
+> https://securelist.com/equation-the-death-star-of-malware-galaxy/68750/
 
 En 1996, uno de los primeros ataques cibernéticos masivos había comenzado. Un grupo de hackers exfiltró una cantidad monumental de documentos, que si fuesen impresos y apilados superarían los 160 metros de altura.
 

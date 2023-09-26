@@ -16,7 +16,7 @@ Una entidad se clasifica como APT si es:
 ## Arma Cibernética
 Comúnmente se refiere a malware empleado por parte de agencias militares, paramilitares o de inteligencia en un ataque cibernético. Esto incluye, entre otros, virus, trotanos, spyware y gusanos.
 
-A diferencia de malware desarrollado para el crimen cibernético, como adware o ransomware, las armas cibernéticas típicamente son creadas por un APT o actor apoyado por un gobierno y son altamente selectivas en su objetivo.
+A diferencia de malware desarrollado para el crimen cibernético, como adware o ransomware, las armas cibernéticas típicamente son creadas por un APT o actor apoyado por un gobierno y pueden ser altamente selectivas en su objetivo.
 
 > [!cite]-
 > https://en.wikipedia.org/wiki/Cyberweapon
@@ -99,7 +99,7 @@ Spear-phishing es una variante del phishing con un enfoque muy preciso en cuanto
 
 > [!cite]-
 > https://www.bbc.com/mundo/noticias-47212337
-> https://web.archive.org/web/20140811102334/http://www.firmex.com/blog/spear-phishing-whos-getting-caught/
+> https://usa.kaspersky.com/resource-center/definitions/spear-phishing
 
 ## Zero-Day
 Un Zero-day es una vulnerabilidad en un sistema informático que previamente era desconocida. El nombre se refiere al tiempo que un proveedor conoce la vulnerabilidad.
