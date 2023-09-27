@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stuxnet (2010).md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Banco de Bangladesh (2016).md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stuxnet (2010).md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Banco de Bangladesh (2016).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,10 @@
   "active": "ab15c74d55b9ac62",
   "lastOpenFiles": [
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
-    "Stuxnet (2010).md",
-    "Operation Aurora (2009).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Banco de Bangladesh (2016).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Sony (2014).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Stuxnet (2010).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Operation Aurora (2009).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Listado.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Moonlight Maze.md",
@@ -193,8 +195,6 @@
     "img/Bézier_3_big.gif",
     "img/Bézier_2_big.gif",
     "img/Bézier_1_big.gif",
-    "Template MOC.md",
-    "Classes/Informatica 3/Introduccion a PGE.md",
     "Classes/Informatica 3",
     "Classes/Complementos de Informatica",
     "Classes/Sistemas Paralelos y Distribuidos",

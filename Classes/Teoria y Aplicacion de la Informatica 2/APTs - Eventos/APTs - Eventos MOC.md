@@ -3,10 +3,6 @@
 [[Titan Rain|Titan Rain (2000s)]]
 [[Operation Aurora (2009)]]
 [[Stuxnet (2010)]]
-[[Duqu (2011)]]
-[[Snowden Leaks (2013)]]
-[[APT1 Exposure (2013)]]
-- https://web.archive.org/web/20130219155150/http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf
 [[Sony (2014)]]
 [[Banco de Bangladesh (2016)]]
 [[APT28 (Fancy Bear) y APT29 (Cozy Bear) (2016)]]
