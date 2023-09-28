@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Listado.md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ab15c74d55b9ac62",
+            "id": "f1fcea850c255de8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Banco de Bangladesh (2016).md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Wannacry (2017).md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Banco de Bangladesh (2016).md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Wannacry (2017).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,23 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab15c74d55b9ac62",
+  "active": "f1fcea850c255de8",
   "lastOpenFiles": [
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Wannacry (2017).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/The Shadow Brokers (2016).md",
+    "Computer Science/Computer Science MOC.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Listado.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Banco de Bangladesh (2016).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Sony (2014).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Stuxnet (2010).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Operation Aurora (2009).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Listado.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Moonlight Maze.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Definiciones y glosario.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/Teoria y Aplicacion de la Informatica 2 MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Classes MOC.md",
     "Index.md",
-    "Computer Science/Computer Science MOC.md",
     "README.md",
     "Computer Science/Networking/Computer Networks MOC.md",
     "APTs - Diferencias con otras entidades.md",
@@ -190,8 +192,6 @@
     "Classes/Teoria y Aplicacion de la Informatica 2",
     "Classes/Informatica 1/FA - FA-nula.md",
     "Classes/Informatica 1/Informatica 1 MOC.md",
-    "Classes/Informatica 1/Push Down Automata.md",
-    "Classes/Informatica 3/Curvas de Bezier.md",
     "img/Bézier_3_big.gif",
     "img/Bézier_2_big.gif",
     "img/Bézier_1_big.gif",
