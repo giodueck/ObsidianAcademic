@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "f1fcea850c255de8",
+            "id": "007cf945421c233b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Wannacry (2017).md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/NotPetya (2017).md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Wannacry (2017).md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/NotPetya (2017).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,9 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1fcea850c255de8",
+  "active": "007cf945421c233b",
   "lastOpenFiles": [
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/NotPetya (2017).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Wannacry (2017).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/The Shadow Brokers (2016).md",
     "Computer Science/Computer Science MOC.md",
@@ -191,7 +192,6 @@
     "LaTeX Cheatsheet.md",
     "Classes/Teoria y Aplicacion de la Informatica 2",
     "Classes/Informatica 1/FA - FA-nula.md",
-    "Classes/Informatica 1/Informatica 1 MOC.md",
     "img/Bézier_3_big.gif",
     "img/Bézier_2_big.gif",
     "img/Bézier_1_big.gif",
