@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "007cf945421c233b",
+            "id": "2fa13d339608eff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/NotPetya (2017).md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Axie Infinity (2022).md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/NotPetya (2017).md",
+                "file": "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Axie Infinity (2022).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,9 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "007cf945421c233b",
+  "active": "2fa13d339608eff9",
   "lastOpenFiles": [
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Axie Infinity (2022).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/NotPetya (2017).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Wannacry (2017).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/The Shadow Brokers (2016).md",
@@ -191,7 +192,6 @@
     "Classes/Complementos de Informatica/Practica 2 - MOF y OCL.md",
     "LaTeX Cheatsheet.md",
     "Classes/Teoria y Aplicacion de la Informatica 2",
-    "Classes/Informatica 1/FA - FA-nula.md",
     "img/Bézier_3_big.gif",
     "img/Bézier_2_big.gif",
     "img/Bézier_1_big.gif",
