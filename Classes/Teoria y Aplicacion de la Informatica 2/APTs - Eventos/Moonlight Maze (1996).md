@@ -1,6 +1,6 @@
 20-09-2023
 ---
-# Moonlight Maze
+# Moonlight Maze  (1996)
 
 > [!cite]-
 > https://securelist.com/penquins-moonlit-maze/77883/
