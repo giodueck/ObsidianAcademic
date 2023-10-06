@@ -15,20 +15,16 @@
 4. [[APTs - Eventos MOC|Eventos]]
 	1. Moonlight Maze (1990s)
 	2. Titan Rain (2000s)
-		1. APT1 Exposure (2013)
 	3. Operation Aurora (2010)
 	4. Stuxnet (2010)
-	5. Duqu (2011)
-	6. Snowden Leaks (2013)
-	7. Sony (2014)
-	8. Banco de Bangladesh (2016)
-	9. APT28 (Fancy Bear) y APT29 (Cozy Bear) (2016)
-	10. The Shadow Brokers (2016)
-	11. Wannacry (2017)
-	12. NotPetya (2017)
-	13. Olympic Destroyer (2018)
-	14. Axie Infinity (2022)
-5. Conclusion
+	5. Sony (2014)
+	6. Banco de Bangladesh (2016)
+	7. The Shadow Brokers (2016)
+	8. Wannacry (2017)
+	9. NotPetya (2017)
+	10. Axie Infinity (2022)
+5. [[APTs - Consecuencias|Consecuencias]]
+6. Conclusion
 
 ## APTs
 1. EE.UU.
