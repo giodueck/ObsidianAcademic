@@ -46,14 +46,26 @@ Existen empresas que brindan servicios de malware o spyware de forma legal o sem
 
 El mejor ejemplo es NSO Group, fundado por operativos de Unit 8200 en Israel. NSO se dedica a vender el spyware Pegasus, que emplea zero-days para iOS y Android para infiltrarse en los teléfonos celulares de sus objetivos. Pegasus fue detectado en el dispositivo del periodista Jamal Khashoggi por parte de Arabia Saudita, y en México se han detectado infecciones en docenas de periodistas, políticos y activistas, en algunos casos también relacionados con asesinatos.
 
-# Escalación de conflictos cibernéticos
-El riesgo de escalación de ataques cibernéticos a ataques físicos o invasiones armadas es cada vez mayor en zonas de tensión. En 2019, un ataque por parte de Hamas en Iraq a sistemas informáticos israelíes causó un ataque de misiles por parte de Israel. La OTAN también se ha propuesto el derecho de responder a ataques cibernéticos con ataques cinéticos, dado que simplemente es uno de los dominios de la guerra.
+# Escalada de conflictos cibernéticos
+El riesgo de escalación de ataques cibernéticos a ataques físicos o invasiones armadas es cada vez mayor en zonas de tensión. En 2019, un ataque por parte de Hamas de Iraq a sistemas informáticos israelíes causó un ataque de misiles por parte de Israel. La OTAN también se ha propuesto el derecho de responder a ataques cibernéticos con ataques cinéticos, dado que simplemente es uno de los dominios de la guerra.
 
 El límite entre el plano de la información y el mundo físico ya no está claramente definido, y armas cibernéticas y cinéticas son consideradas para algunos gobiernos como equivalentes.
 
 ## El problema de la atribución
+Los ataques cibernéticos tienen la ventaja de ser potencialmente anónimos. No hay restos de misiles, casquillos de balas o testigos, siempre que el atacante cuide su seguridad operacional.
+
+Otros actores activamente ocultan su actividad en operaciones de bandera falsa, mediante técnicas varias como incluir código de varios estilos y lenguajes (o directamente exploits) de otros APTs, como es el caso de Olympic Destroyer, un ataque a los juegos olímpicos atribuido a Rusia.
+
 El mayor problema para las respuestas violentas a ataques cibernéticos es la atribución. Muy a menudo no hay garantías del culpable de un ataque, por lo que, como es el caso de Israel, se tomó en consideración que Hamas realizaba ataques con misiles simultáneamente. Otros actores, como la OTAN, tal vez no sean siempre tan afortunados de saber el origen de un ataque.
 
 # Normas y políticas de ciberseguridad
+En respuesta a los numerosos y severos ataques experimentados por varios países, se han empezado a desarrollar normativas con respecto a ataques cibernéticos por parte de naciones.
+
+La Unión Europea y los EE.UU. sancionan a países a los cuales atribuye ataques que atacan la seguridad nacional, como en el caso del hack de SolarWinds y Rusia, y la OTAN considera al plano de la información como un dominio de guerra igual en significancia que el aire o las aguas.
 
 ## Leyes de la guerra cibernética
+El Secretario General de la ONU ya ha insistido numerosas veces que una reglamentación de la guerra cibernética debe crearse, y los EE.UU. y Rusia han acordado que ciertos sectores de la infraestructura no objetivos no permitidos para ciberataques. Estos acuerdos tienen varias problemáticas a enfrentar.
+
+El primer obstáculo es el ya mencionado problema de la atribución. Un actor sigiloso puede evitar ser identificado por muchos años, como en el caso de Moonlight Maze, y evitar las sanciones o respuestas asociadas. La efectividad del reglamento de ciberguerra depende enteramente del descuido del atacante.
+
+El siguiente problema es el de la definición del término *ciberguerra*. Mientras que se ha usado en esta investigación y en contextos oficiales de la ONU, entre otros, no se ha definido de forma definitiva en ninguno de ellos. Es fácil designar ataques masivos como el de NotPetya como actos de guerra pero, ¿no lo son ataques como Stuxnet también? ¿Puede un ataque sigiloso y penetrante como el de SolarWinds ser considerado un acto de guerra?
