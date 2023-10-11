@@ -10,7 +10,7 @@
 - [[TP DM - Entregable 1]]
 
 ## Sistematic Literature Reviews
-- [[SLR - Introcuccion]]
+- [[SLR - Introduccion]]
 
 ---
 #MOC 

@@ -1,6 +1,6 @@
 11-10-2023
 ---
-# SLR - Introcuccion
+# SLR - Introduccion
 
 ## Introduccion
 What is a SLR?
