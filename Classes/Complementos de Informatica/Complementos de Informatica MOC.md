@@ -11,6 +11,7 @@
 
 ## Sistematic Literature Reviews
 - [[SLR - Introduccion]]
+- [[SLR - Metodos de investigacion]]
 
 ---
 #MOC 
