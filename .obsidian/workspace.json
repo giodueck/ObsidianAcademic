@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "854d5f4f6f876ec9",
+        "id": "b8b3d88f1aee4f85",
         "type": "tabs",
         "children": [
           {
-            "id": "fc68a5d46bae14c3",
+            "id": "0036d1d136a0f5b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f8a39335a3c974e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLR - Metodos de investigacion.md",
+                "file": "Classes/Complementos de Informatica/MDA.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MOC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +59,7 @@
             }
           },
           {
-            "id": "b2865033ebd3b5d5",
+            "id": "7a8b276475e57c53",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -100,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe51fbf17d4ac71e",
@@ -117,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLR - Metodos de investigacion.md",
+                "file": "Classes/Complementos de Informatica/MDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             }
           },
           {
-            "id": "cb04254f929be7e0",
+            "id": "f677738b570f9fbc",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -137,7 +123,7 @@
             }
           },
           {
-            "id": "09fa33407bd9e749",
+            "id": "a69b80a5d93769e3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,44 +148,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8a39335a3c974e2",
+  "active": "0036d1d136a0f5b7",
   "lastOpenFiles": [
-    "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
-    "SLR - Metodos de investigacion.md",
-    "Classes/Classes MOC.md",
-    "Classes/Compiladores/Compiladores MOC.md",
-    "Classes/Complementos de Informatica/SLR - Introduccion.md",
-    "README.md",
-    "Index.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/SolarWinds (2020).md",
+    "Classes/Complementos de Informatica/SLR - Metodos de investigacion.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Consecuencias.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Axie Infinity (2022).md",
+    "Classes/Complementos de Informatica/SLR - Introduccion.md",
+    "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
+    "Classes/Complementos de Informatica/Practica 2 - MOF y OCL.md",
+    "Classes/Complementos de Informatica/Developing your own Modeling Language.md",
+    "Classes/Complementos de Informatica/MDA.md",
+    "Classes/Complementos de Informatica/MDE.md",
+    "Classes/Classes MOC.md",
+    "Index.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Wannacry (2017).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain (2000s).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/The Shadow Brokers (2016).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/SolarWinds (2020).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/NotPetya (2017).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Moonlight Maze (1996).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Axie Infinity (2022).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Conclusion.md",
+    "Classes/Complementos de Informatica/Introduccion Complementos.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/Teoria y Aplicacion de la Informatica 2 MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Listado.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Conclusion.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/Teoria y Aplicacion de la Informatica 2 MOC.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain (2000s).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Moonlight Maze (1996).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Wannacry (2017).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/The Shadow Brokers (2016).md",
-    "Computer Science/Computer Science MOC.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Banco de Bangladesh (2016).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Sony (2014).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Stuxnet (2010).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Operation Aurora (2009).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Definiciones y glosario.md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Sony (2014).md",
+    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Moonlight Maze.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Teoria y Aplicacion de la Informatica 2",
-    "img/Bézier_3_big.gif",
-    "img/Bézier_2_big.gif",
     "img/Bézier_1_big.gif",
+    "img/Bézier_3_big.gif",
+    "img/Bézier_2_big.svg.png",
+    "img/Bézier_2_big.gif",
     "Classes/Informatica 3",
-    "Classes/Complementos de Informatica",
-    "Classes/Sistemas Paralelos y Distribuidos",
-    "Untitled.canvas",
-    "Classes/Compiladores",
-    "Classes/Informatica 2"
+    "Classes/Complementos de Informatica"
   ]
 }
