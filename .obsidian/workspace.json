@@ -30,9 +30,20 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "08b4d2037be5d3dd",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesis - Brainstorming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bb17e1f8b49cf74",
+  "active": "08b4d2037be5d3dd",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Tesis - Brainstorming.md",
