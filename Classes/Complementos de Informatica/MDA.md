@@ -26,7 +26,7 @@ The Object Management Group (OMG) has defined its own comprehensive proposal app
 MDA's core is UML.
 Two options for specifying your languages:
 - (Domain-specific) UML Extensions can be defined through UML Profiles
-- Fill-fledged Domain-specific languages (DSMLs) can be defined by MOF
+- Full-fledged Domain-specific languages (DSMLs) can be defined by MOF
 
 Many UML tools are expanded to MDA tools
 
