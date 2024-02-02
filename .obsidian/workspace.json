@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "854d5f4f6f876ec9",
+        "id": "6526c318fc057fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "fc68a5d46bae14c3",
+            "id": "7159100bee96b984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "f8a39335a3c974e2",
+            "id": "8bb17e1f8b49cf74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLR - Metodos de investigacion.md",
+                "file": "Tesis - Brainstorming.md",
                 "mode": "source",
                 "source": true
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe51fbf17d4ac71e",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLR - Metodos de investigacion.md",
+                "file": "Tesis - Brainstorming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -162,15 +163,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8a39335a3c974e2",
+  "active": "6dbc27205106e356",
   "lastOpenFiles": [
     "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
-    "SLR - Metodos de investigacion.md",
+    "Tesis - Brainstorming.md",
+    "Classes/Complementos de Informatica/Introduccion Complementos.md",
     "Classes/Classes MOC.md",
+    "Classes/Informatica 3/Introduccion Informatica 3.md",
+    "Classes/Informatica 3/Informatica 3 MOC.md",
+    "Index.md",
+    "Classes/Complementos de Informatica/SLR - Metodos de investigacion.md",
     "Classes/Compiladores/Compiladores MOC.md",
     "Classes/Complementos de Informatica/SLR - Introduccion.md",
     "README.md",
-    "Index.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/SolarWinds (2020).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Consecuencias.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
@@ -186,10 +191,6 @@
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/The Shadow Brokers (2016).md",
     "Computer Science/Computer Science MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Banco de Bangladesh (2016).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Sony (2014).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Stuxnet (2010).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Operation Aurora (2009).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Definiciones y glosario.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Teoria y Aplicacion de la Informatica 2",
     "img/Bézier_3_big.gif",
