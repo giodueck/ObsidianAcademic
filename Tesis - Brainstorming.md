@@ -4,7 +4,9 @@ Ver que datos les interesa a la gente
 
 # Recursos
 - Copernicus
+	- https://en.wikipedia.org/wiki/Copernicus_Programme
 - Landsat
+	- https://en.wikipedia.org/wiki/Landsat_program
 
 [When deep learning meets satellite imagery](https://www.youtube.com/watch?v=CQlLa_UWncg)
 
