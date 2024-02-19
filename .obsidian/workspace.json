@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis - Brainstorming.md",
+                "file": "Tesis/Tesis - Brainstorming.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesis - Brainstorming.md",
+                "file": "Tesis/Tesis - Brainstorming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,11 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bb17e1f8b49cf74",
+  "active": "6dbc27205106e356",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Tesis - Brainstorming.md",
+    "Tesis",
     "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
+    "conflict-files-obsidian-git.md",
+    "Tesis/Tesis - Brainstorming.md",
     "Classes/Complementos de Informatica/Introduccion Complementos.md",
     "Classes/Classes MOC.md",
     "Classes/Informatica 3/Introduccion Informatica 3.md",
@@ -190,7 +191,6 @@
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Moonlight Maze (1996).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Wannacry (2017).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/The Shadow Brokers (2016).md",
-    "Computer Science/Computer Science MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Teoria y Aplicacion de la Informatica 2",
     "img/Bézier_3_big.gif",

@@ -29,3 +29,15 @@ Ver que datos les interesa a la gente
 	- Paleocauces
 2. Erosion de viento, franjas de bosques
 	- Aplicacion windy
+
+# Paleocauces - Reunion
+Prof. Félix Albino Carvallo Vargas
+
+Teledetección de paleocauces para la construccion de pozos en comunidades indigenas
+
+Programa: [Modflow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model)
+> MODFLOW is the USGS's modular hydrologic model. MODFLOW is considered an international standard for simulating and predicting groundwater conditions and groundwater/surface-water interactions. MODFLOW 6 is presently the core MODFLOW version distributed by the USGS.
+
+Video Modflow: https://www.youtube.com/watch?v=kqEDaLR9rB0
+
+https://github.com/MODFLOW-USGS/executables/tree/18.0
