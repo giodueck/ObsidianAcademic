@@ -7,6 +7,7 @@ But these concept notes need organization, start searching here.
 
 ## Uni
 [[Classes MOC]]
+[[Tesis MOC]]
 
 ## General
 [[Computer Science MOC]]
@@ -18,4 +19,4 @@ But these concept notes need organization, start searching here.
 [[Template MOC]]
 
 ---
-#MOC 
+#MOC
