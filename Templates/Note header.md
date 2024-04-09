@@ -1,3 +1,3 @@
-{{date:DD-MM-YYYY}}
+{{date}}
 ---
 # {{title}}
