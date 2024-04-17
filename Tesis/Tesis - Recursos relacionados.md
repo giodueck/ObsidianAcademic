@@ -28,3 +28,22 @@ https://apps.mades.gov.py/siam/doc-area-protegida/archivo/55
 
 pag 41: Seccion "Geologia local" menciona la formacion y descripciones de paleocauces
 conocidos.
+
+### Mapa Hidrogeológico del Sistema Acuífero Yrenda Toba Tarijeño - SAYTT
+(email attachment)
+
+- Pag. 14: Figura 5: Mapa Topográfico y geomorfológico. Mostrando los paleocauces en las áreas centro y bajo Chaco
+- Pag. 173: Complejo Acuífero Paleocauce
+- Pag. 174: Ocurrencia del agua subterránea freática (Neuland mentioned)
+- Pag. 177: Mapa de ocurrencia de acuíferos freáticos
+
+### Atlas Geográfico del Chaco Paraguayo
+(email attachment)
+
+- Pag. 33: Datos Generales
+	- Descripción de periodos geológicos y las formaciones de paleocauces y paleocanales
+
+### Recopilación y Análisis de Datos de la Biodiversidad y la Hidrología de los Departamentos Alto Paraguay y Boquerón del Chaco paraguayo
+(email attachment)
+
+- Pag. 89: El Agua Subterránea en el Chaco Paraguayo – Generalidades & Recomendaciones

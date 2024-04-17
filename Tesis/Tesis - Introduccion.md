@@ -1,3 +1,5 @@
+2024-04-16
+---
 # Tesis - Introduccion
 
 ## Titulo
@@ -9,9 +11,10 @@ Ir puliendo...
 #TODO Definir scope, objetivos acotados
 
 ## Recursos
-#TODO Buscar la comisión nacional de Bolivia para paleocauces
-#TODO Ver como hacen los argentinos en el chaco con aqüíferos y paleocauces
-#TODO En reunión siguiente, definir recursos de imágenes satelitales
+#TODO
+- [~] Buscar la comisión nacional de Bolivia para paleocauces
+- [>] Ver como hacen los argentinos en el chaco con aqüíferos y paleocauces
+- [ ] En reunión siguiente, definir recursos de imágenes satelitales
 
 ## Game-plan
 - Descargar imagenes
