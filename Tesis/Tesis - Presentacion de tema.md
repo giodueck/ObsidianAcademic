@@ -2,10 +2,7 @@
 ---
 # Tesis - Presentacion de tema
 
-Interpretación de Imagenes Satelitales para la Identificación de Paleocauces
-
-Variaciones:
-- Uso de Redes Neuronales Convolucionales para ...
+**Uso de Redes Neuronales Convolucionales para Interpretación de Imagenes Satelitales**
 
 Brainstorm tecnicas de procesamiento:
 - CNN
@@ -19,11 +16,10 @@ Brainstorm tecnicas de procesamiento:
 
 # Objetivos
 ## General
-Crear un modelo capaz de identificar paleocauces por medio de redes neuronales convolucionales en imagenes satelitales del Chaco Paraguayo.
+Creacion de modelos de redes neuronales convolucionales para la clasificacion/caracterizacion de imagenes satelitales.
 
 ## Especificos
-- Estudio del estado del arte en cuanto a la utilizacion de redes neuronales convolucionales en clasificacion de iamgenes satelitales.
-- Entrenar un modelo:
-	- capaz de identificar patrones comunes en imagenes de paleocauces conocidos
-	- consistente en cualquier temporada del año
-	- consistente a traves de un rango temporal de imagenes de varios años
+- Analisis de series temporales a partir de imagenes satelitales correspondientes a la region occidental del Paraguay
+- Identificacion y clasificacion de componentes de uso de suelo
+- Determinacion de areas de ocurrencia de paleocauces
+
