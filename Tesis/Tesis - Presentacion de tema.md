@@ -4,10 +4,6 @@
 
 **Uso de Redes Neuronales Convolucionales para Interpretación de Imagenes Satelitales**
 
-Brainstorm tecnicas de procesamiento:
-- CNN
-- others?
-
 # (Mas) Recursos relacionados
 - https://github.com/satellite-image-deep-learning/techniques
 - https://github.com/AliFlux/MapTilesDownloader
