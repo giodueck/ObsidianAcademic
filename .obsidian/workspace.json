@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis/Tesis - Primera presentacion.md",
+                "file": "Tesis/Tesis - Presentacion de tema.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tesis/Tesis - Presentacion de tema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +149,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73d7a86ea191b5bc",
+  "active": "8bb17e1f8b49cf74",
   "lastOpenFiles": [
-    "Tesis/Tesis - Primera presentacion.md",
     "Tesis/Tesis MOC.md",
+    "Tesis/Tesis - Primera presentacion.md",
     "Index.md",
     "Tesis/Tesis - Recursos relacionados.md",
     "Tesis/Tesis - Introduccion.md",
