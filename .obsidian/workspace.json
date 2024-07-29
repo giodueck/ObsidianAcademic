@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7159100bee96b984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "8bb17e1f8b49cf74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis/Tesis - Recursos relacionados.md",
+                "file": "Tesis/Tesis - Primera presentacion.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe51fbf17d4ac71e",
@@ -117,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesis/Tesis - Recursos relacionados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,11 +149,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bb17e1f8b49cf74",
+  "active": "73d7a86ea191b5bc",
   "lastOpenFiles": [
+    "Tesis/Tesis - Primera presentacion.md",
     "Tesis/Tesis MOC.md",
-    "Tesis/Tesis - Introduccion.md",
+    "Index.md",
     "Tesis/Tesis - Recursos relacionados.md",
+    "Tesis/Tesis - Introduccion.md",
     "Tesis/Tesis - Brainstorming.md",
     "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
     "Tesis",
@@ -177,7 +164,6 @@
     "Classes/Classes MOC.md",
     "Classes/Informatica 3/Introduccion Informatica 3.md",
     "Classes/Informatica 3/Informatica 3 MOC.md",
-    "Index.md",
     "Classes/Complementos de Informatica/SLR - Metodos de investigacion.md",
     "Classes/Compiladores/Compiladores MOC.md",
     "Classes/Complementos de Informatica/SLR - Introduccion.md",
@@ -192,7 +178,6 @@
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Conclusion.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/Teoria y Aplicacion de la Informatica 2 MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain (2000s).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Moonlight Maze (1996).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Teoria y Aplicacion de la Informatica 2",
     "img/Bézier_3_big.gif",
