@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis/Tesis - Presentacion de tema.md",
+                "file": "Tesis/Tesis - Primera presentacion.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesis/Tesis - Presentacion de tema.md",
+                "file": "Tesis/Tesis - Primera presentacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,6 +153,7 @@
   "active": "8bb17e1f8b49cf74",
   "lastOpenFiles": [
     "Tesis/Tesis MOC.md",
+    "Tesis/Tesis - Presentacion de tema.md",
     "Tesis/Tesis - Primera presentacion.md",
     "Index.md",
     "Tesis/Tesis - Recursos relacionados.md",
@@ -177,7 +179,6 @@
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Listado.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Conclusion.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/Teoria y Aplicacion de la Informatica 2 MOC.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Titan Rain (2000s).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Teoria y Aplicacion de la Informatica 2",
     "img/Bézier_3_big.gif",
