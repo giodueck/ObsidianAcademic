@@ -5,10 +5,10 @@
 - [>] State of the art
 	- [x] Contents outline (2024-07-28)
 	- [>] Satellite imaging
-		- [>] Background
-		- [ ] Applications
-		- [ ] Data characteristics
-		- [ ] Resources
+		- [x] Background (2024-07-30)
+		- [x] Applications (2024-07-30)
+		- [x] Data characteristics (2024-07-30)
+		- [>] Resources
 	- [ ] CNNs
 		- [ ] Background
 		- [ ] Applications in image processing
