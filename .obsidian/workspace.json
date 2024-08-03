@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis/Tesis - Primera presentacion.md",
+                "file": "Tesis/Research/Tesis - CNN.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe51fbf17d4ac71e",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesis/Tesis - Primera presentacion.md",
+                "file": "Tesis/Research/Tesis - CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,10 +153,12 @@
   },
   "active": "8bb17e1f8b49cf74",
   "lastOpenFiles": [
+    "Tesis/Research/Tesis - CNN.md~",
+    "Tesis/Research/Tesis - Research MOC.md",
     "Tesis/Tesis MOC.md",
-    "Tesis/Tesis - Presentacion de tema.md",
-    "Tesis/Tesis - Primera presentacion.md",
     "Index.md",
+    "Tesis/Tesis - Primera presentacion.md",
+    "Tesis/Tesis - Presentacion de tema.md",
     "Tesis/Tesis - Recursos relacionados.md",
     "Tesis/Tesis - Introduccion.md",
     "Tesis/Tesis - Brainstorming.md",
@@ -177,8 +180,6 @@
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/NotPetya (2017).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Listado.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Conclusion.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/Teoria y Aplicacion de la Informatica 2 MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Teoria y Aplicacion de la Informatica 2",
     "img/Bézier_3_big.gif",
