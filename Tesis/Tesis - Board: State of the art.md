@@ -10,7 +10,7 @@
 		- [x] Data characteristics (2024-07-30)
 		- [x] Resources (2024-08-03)
 	- [>] CNNs
-		- [>] Background
+		- [x] Background (2024-08-05)
 		- [ ] Applications in image processing
 		- [ ] Key techniques and architectures
 	- [ ] CNNs applied in satellite imaging
