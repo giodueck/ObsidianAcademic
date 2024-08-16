@@ -24,6 +24,16 @@ del grupo de píxeles. Con una representación adecuada de los datos de cada pí
 pueden usarse en la detección de bordes en cualquier orientación, reducción de ruido, aumentación de intensidad de píxeles
 de cierto color o brillo, entre otros. (1)
 
+## Key techniques and architectures
+
+https://medium.com/@navarai/unveiling-the-diversity-a-comprehensive-guide-to-types-of-cnn-architectures-9d70da0b4521
+
+First successful CNNs featured some convolution and max pooling layers, some fully connected layers and various traditional NN techniques like dropout. The first examples are LeNet (LeCun ~1990s) and AlexNet (Krizhevsky et al 2012).
+
+New breakthroughs aim at specific kinds of optimizations. VGGNet provides a simpler structure with the same capacity as a more complex architecture. Google's GoogLeNet used different sized kernels to improve generalization, along with showcasing Inception as a performance booster through parallelism. ResNet showed techniques for training very deep networks using shortcuts between layers, which could entirely skip some layers to make backpropagation and gradient descent easier. Lastly, Google also introduced MobileNet, an architecture aimed at efficiency for use in mobile and edge devices.
+
+#TODO Add U-Net paper prof Alberto sent
+
 ## References
 1. Géron, Aurélien (2019). Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow. Sebastopol, CA: O'Reilly Media. ISBN 978-1-492-03264-9., pp. 448
 2. Ciresan, Dan; Ueli Meier; Jonathan Masci; Luca M. Gambardella; Jurgen Schmidhuber https://web.archive.org/web/20220405190128/https://people.idsia.ch/~juergen/ijcai2011.pdf
