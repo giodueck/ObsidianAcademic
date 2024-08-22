@@ -32,8 +32,11 @@ First successful CNNs featured some convolution and max pooling layers, some ful
 
 New breakthroughs aim at specific kinds of optimizations. VGGNet provides a simpler structure with the same capacity as a more complex architecture. Google's GoogLeNet used different sized kernels to improve generalization, along with showcasing Inception as a performance booster through parallelism. ResNet showed techniques for training very deep networks using shortcuts between layers, which could entirely skip some layers to make backpropagation and gradient descent easier. Lastly, Google also introduced MobileNet, an architecture aimed at efficiency for use in mobile and edge devices.
 
-#TODO Add U-Net paper prof Alberto sent
+Another milestone architecture is the U-Net, a fully convolutional neural network architecture designed for biomedical image segmentation. It was developed to require fewer training images and to yield more precise segmentation, which on a modern (2015) GPU takes less than a second for a 512x512 image. (5) It has also been used in diffusion models for iterative image denoising, and it underlies many generative image technologies, like DALL-E, Midjourney and Stable Diffusion. (4) The U-Net has also been successfully employed in segmentation of satellite imagery for detection of various features, like water resources, forests or urban areas. (3)
 
 ## References
 1. Géron, Aurélien (2019). Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow. Sebastopol, CA: O'Reilly Media. ISBN 978-1-492-03264-9., pp. 448
 2. Ciresan, Dan; Ueli Meier; Jonathan Masci; Luca M. Gambardella; Jurgen Schmidhuber https://web.archive.org/web/20220405190128/https://people.idsia.ch/~juergen/ijcai2011.pdf
+3. https://fruct.org/publications/volume-22/acm22/files/Khr.pdf
+4. https://github.com/hojonathanho/diffusion?tab=readme-ov-file
+5. https://arxiv.org/abs/1505.04597v1

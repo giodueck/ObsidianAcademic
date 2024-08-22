@@ -12,7 +12,7 @@
 	- [>] CNNs
 		- [x] Background (2024-08-05)
 		- [x] Applications in image processing (2024-08-10)
-		- [>] Key techniques and architectures
+		- [x] Key techniques and architectures (2024-08-21)
 	- [ ] CNNs applied in satellite imaging
 		- [ ] Classification
 		- [ ] Segmentation
