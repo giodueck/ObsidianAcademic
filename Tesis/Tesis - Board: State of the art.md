@@ -14,7 +14,7 @@
 		- [x] Applications in image processing (2024-08-10)
 		- [x] Key techniques and architectures (2024-08-21)
 	- [>] CNNs applied in satellite imaging
-		- [>] Classification
-		- [>] Segmentation
+		- [x] Classification (2024-09-01)
+		- [x] Segmentation (2024-09-01)
 		- [>] Change detection
 		- [>] Time series
