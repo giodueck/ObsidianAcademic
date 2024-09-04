@@ -2,7 +2,7 @@
 ---
 # Tesis - Board: State of the art
 
-- [>] State of the art
+- [x] State of the art (2024-09-03)
 	- [x] Contents outline (2024-07-28)
 	- [x] Satellite imaging (2024-08-03)
 		- [x] Background (2024-07-30)
@@ -13,8 +13,8 @@
 		- [x] Background (2024-08-05)
 		- [x] Applications in image processing (2024-08-10)
 		- [x] Key techniques and architectures (2024-08-21)
-	- [>] CNNs applied in satellite imaging
+	- [x] CNNs applied in satellite imaging (2024-09-03)
 		- [x] Classification (2024-09-01)
 		- [x] Segmentation (2024-09-01)
-		- [>] Change detection
-		- [>] Time series
+		- [x] Change detection (2024-09-03)
+		- [x] Time series (2024-09-03)
