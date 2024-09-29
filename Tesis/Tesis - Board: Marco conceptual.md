@@ -1,8 +1,8 @@
 2024-07-29
 ---
-# Tesis - Board: State of the art
+# Tesis - Board: Marco conceptual
 
-- [x] State of the art (2024-09-03)
+- [x] Marco conceptual (2024-09-03)
 	- [x] Contents outline (2024-07-28)
 	- [x] Satellite imaging (2024-08-03)
 		- [x] Background (2024-07-30)

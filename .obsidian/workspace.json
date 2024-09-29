@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis/Research/Tesis - CNN.md",
+                "file": "Tesis/Research/Tesis - Estado del arte - Metodologia.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesis/Research/Tesis - CNN.md",
+                "file": "Tesis/Research/Tesis - Estado del arte - Metodologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,9 +153,14 @@
   },
   "active": "8bb17e1f8b49cf74",
   "lastOpenFiles": [
-    "Tesis/Research/Tesis - CNN.md~",
+    "Tesis/Research/Tesis - Estado del arte - Metodologia.md~",
     "Tesis/Research/Tesis - Research MOC.md",
+    "Tesis/Research/Tesis - Metodologia.md",
+    "Tesis/Research/Tesis - Estado del arte - Metodologia.md",
+    "Tesis/Research/Tesis - Research MOC.md~",
     "Tesis/Tesis MOC.md",
+    "Tesis/Research/Tesis - CNN.md",
+    "Tesis/Research/Tesis - CNN.md~",
     "Index.md",
     "Tesis/Tesis - Primera presentacion.md",
     "Tesis/Tesis - Presentacion de tema.md",
@@ -177,9 +182,6 @@
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Consecuencias.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Axie Infinity (2022).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/NotPetya (2017).md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/TP TAI 2 - Bosquejo.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Listado.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Teoria y Aplicacion de la Informatica 2",
     "img/Bézier_3_big.gif",
@@ -189,7 +191,6 @@
     "Classes/Complementos de Informatica",
     "Classes/Sistemas Paralelos y Distribuidos",
     "Untitled.canvas",
-    "Classes/Compiladores",
-    "Classes/Informatica 2"
+    "Classes/Compiladores"
   ]
 }
