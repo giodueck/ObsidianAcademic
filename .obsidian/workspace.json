@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis/Research/Tesis - Estado del arte - Metodologia.md",
+                "file": "Classes/Complementos de Informatica/SLR - Introduccion.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesis/Research/Tesis - Estado del arte - Metodologia.md",
+                "file": "Classes/Complementos de Informatica/SLR - Introduccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,36 +148,37 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8bb17e1f8b49cf74",
   "lastOpenFiles": [
+    "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
+    "Classes/Classes MOC.md",
+    "Index.md",
+    "Tesis/Research/Tesis - Estado del arte - Metodologia.md",
+    "README.md",
     "Tesis/Research/Tesis - Estado del arte - Metodologia.md~",
     "Tesis/Research/Tesis - Research MOC.md",
     "Tesis/Research/Tesis - Metodologia.md",
-    "Tesis/Research/Tesis - Estado del arte - Metodologia.md",
     "Tesis/Research/Tesis - Research MOC.md~",
     "Tesis/Tesis MOC.md",
     "Tesis/Research/Tesis - CNN.md",
     "Tesis/Research/Tesis - CNN.md~",
-    "Index.md",
     "Tesis/Tesis - Primera presentacion.md",
     "Tesis/Tesis - Presentacion de tema.md",
     "Tesis/Tesis - Recursos relacionados.md",
     "Tesis/Tesis - Introduccion.md",
     "Tesis/Tesis - Brainstorming.md",
-    "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
     "Tesis",
     "conflict-files-obsidian-git.md",
     "Classes/Complementos de Informatica/Introduccion Complementos.md",
-    "Classes/Classes MOC.md",
     "Classes/Informatica 3/Introduccion Informatica 3.md",
     "Classes/Informatica 3/Informatica 3 MOC.md",
     "Classes/Complementos de Informatica/SLR - Metodos de investigacion.md",
     "Classes/Compiladores/Compiladores MOC.md",
     "Classes/Complementos de Informatica/SLR - Introduccion.md",
-    "README.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/SolarWinds (2020).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Consecuencias.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",

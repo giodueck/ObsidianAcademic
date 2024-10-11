@@ -11,9 +11,11 @@ Keywords       | Synonyms
 ---------------|------------------
 Neural network | Machine learning
                | Deep learning
+               | Convolutional neural network
+               | CNN
 Remote sensing | Satellite imagery
 Classification |
-Detection      |
+Detection      | Recognition
 
 Search engines:
 - Google Scholar
@@ -32,3 +34,37 @@ Search engines:
 1. Trabajos que no contengan las palabras claves o son irrelevantes para el campo de investigacion
 2. Trabajos que se centran en un termino de busqueda pero no incluyen alguno de los demas
 3. Trabajos con una cantidad mayoritaria de informacion irrelevante para el tema estudiado
+
+## Preguntas de investigacion
+
+El objetivo principal de este estudio es determinar cual es el estado del arte en técnicas utilizadas para clasificar y caracterizar o interpretar imágenes satelitales por medio
+de redes neuronales convolucionales. Con este fin en mente, se plantean las siguientes preguntas de investigación:
+
+1. ¿Qué proyectos se están llevando adelante para clasificar y caracterizar imágenes satelitales usando redes neuronales convolucionales?
+2. ¿Cuáles son las ventajas y/o desventajas de la clasificación y caracterización de imágenes satelitales usando redes neuronales convolucionales en comparación con las alternativas?
+
+## Findings
+### Google Scholar
+- neural network remote sensing classification
+    - 2017: A patch-based convolutional neural network for remote sensing image classification https://www.sciencedirect.com/science/article/abs/pii/S0893608017301806
+    - 2017: Multisource Remote Sensing Data Classification Based on Convolutional Neural Network https://ieeexplore.ieee.org/abstract/document/8068943
+    - 2016: Convolutional Neural Networks for Large-Scale Remote-Sensing Image Classification https://ieeexplore.ieee.org/abstract/document/7592858
+    - 2015: Land Use Classification in Remote Sensing Images by Convolutional Neural Networks https://arxiv.org/abs/1508.00092
+    - 2021: Convolutional Neural Networks for Multimodal Remote Sensing Data Classification https://ieeexplore.ieee.org/abstract/document/9598903
+- convolutional neural network remote sensing classification
+    - 2018: **interesting** Deep Convolutional Neural Network for Complex Wetland Classification Using Optical Remote Sensing Imagery https://ieeexplore.ieee.org/abstract/document/8401505
+    - 2017: **interesting** Towards better exploiting convolutional neural networks for remote sensing scene classification https://www.sciencedirect.com/science/article/abs/pii/S0031320316301509
+- convolutional neural network satellite imagery classification
+    - 2016: **interesting** SatCNN: satellite image dataset classification using agile convolutional neural networks https://www.tandfonline.com/doi/abs/10.1080/2150704X.2016.1235299
+    - 2016: Classification and Segmentation of Satellite Orthoimagery Using Convolutional Neural Networks https://www.mdpi.com/2072-4292/8/4/329
+    - 2020: Multi-Classification of Satellite Imagery Using Fully Convolutional Neural Network https://ieeexplore.ieee.org/abstract/document/9111928
+    - 2019: DeepSat V2: feature augmented convolutional neural nets for satellite image classification https://www.tandfonline.com/doi/abs/10.1080/2150704X.2019.1693071
+    - 2016: Fully convolutional neural networks for remote sensing image classification https://ieeexplore.ieee.org/abstract/document/7730322
+    - 2018: Satellite Image Classification with Deep Learning https://ieeexplore.ieee.org/abstract/document/8457969
+    - 2017: Performance Enhancement of Satellite Image Classification Using a Convolutional Neural Network https://link.springer.com/chapter/10.1007/978-3-319-64861-3_63
+- convolutional neural network satellite imagery detection
+    - 2017: Satellite Imagery Feature Detection using Deep Convolutional Neural Network: A Kaggle Competition https://arxiv.org/abs/1706.06169
+    - 2016: Convolutional Neural Network Based Automatic Object Detection on Aerial Images https://ieeexplore.ieee.org/abstract/document/7447728
+    - 2015: Orientation robust object detection in aerial images using deep convolutional neural network https://ieeexplore.ieee.org/abstract/document/7351502
+    - 2018: Optimization Of Convolutional Neural Network For Object Recognition On Satellite Images https://ieeexplore.ieee.org/abstract/document/8457056
+    - 2023: A Deep Convolutional Neural Network for Detecting Volcanic Thermal Anomalies from Satellite Images https://www.mdpi.com/2072-4292/15/15/3718

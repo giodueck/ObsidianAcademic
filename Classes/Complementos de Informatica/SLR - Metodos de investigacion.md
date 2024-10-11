@@ -155,7 +155,7 @@ La primera entrega debe incluir una seccion de diseño de la propuesta, tareas r
 
 ## Tipos de proyectos finales de carrera en el DEI
 - Parte de proyectos de investigacion del departamento o en otros entornos
-- Aplicaciones para la industrua con enfoque de innovacion
+- Aplicaciones para la industria con enfoque de innovacion
 - Como parte de lineas de interes teniendo en cuenta las areas de interes de la carrera
 	- Gestion de informacion y conocimiento
 	- Ingenieria y desarrollo de software
