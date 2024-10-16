@@ -9,13 +9,10 @@
 
 Keywords       | Synonyms
 ---------------|------------------
-Neural network | Machine learning
-               | Deep learning
-               | Convolutional neural network
-               | CNN
+Neural network | Convolutional neural network
 Remote sensing | Satellite imagery
 Classification |
-Detection      | Recognition
+Detection      |
 
 Search engines:
 - Google Scholar
@@ -26,7 +23,7 @@ Search engines:
 ## Criterios de seleccion
 
 ### Inclusion
-1. Trabajos que se enfoquen en la clasificacion de imagenes satelitales por medio de redes neuronales en el rango de publicacion de 2020 a 2024
+1. Trabajos que se enfoquen en la clasificacion de imagenes satelitales por medio de redes neuronales en el rango de publicacion de 2014 a 2024
 2. Trabajos que coincidan en su contenido con los terminos de busqueda
 3. Trabajos cuyo contenido sea relevante para la investigacion
 
@@ -68,3 +65,6 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
     - 2015: Orientation robust object detection in aerial images using deep convolutional neural network https://ieeexplore.ieee.org/abstract/document/7351502
     - 2018: Optimization Of Convolutional Neural Network For Object Recognition On Satellite Images https://ieeexplore.ieee.org/abstract/document/8457056
     - 2023: A Deep Convolutional Neural Network for Detecting Volcanic Thermal Anomalies from Satellite Images https://www.mdpi.com/2072-4292/15/15/3718
+### Tutor
+- 2016: Identificación y Mapeo de Paleocauces utilizando Imágenes Satelitales de Alta Resolución en la Llanura Costera de la Bahía Samborombón, Este de la Provincia de Buenos Aires, Argentina. https://www.researchgate.net/publication/325827963_IDENTIFICACION_Y_MAPEO_DE_PALEOCAUCES_UTILIZANDO_IMAGENES_SATELITALES_DE_ALTA_RESOLUCION_EN_LA_LLANURA_COSTERA_DE_LA_BAHIA_SAMBOROMBON_ESTE_DE_LA_PROVINCIA_DE_BUENOS_AIRES_ARGENTINA
+
