@@ -41,6 +41,8 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 2. ¿Cuáles son las ventajas y/o desventajas de la clasificación y caracterización de imágenes satelitales usando redes neuronales convolucionales en comparación con las alternativas?
 
 ## Findings
+[[Tesis - Estado del arte - Planilla]]
+
 ### Google Scholar
 - neural network remote sensing classification
     - 2017: A patch-based convolutional neural network for remote sensing image classification https://www.sciencedirect.com/science/article/abs/pii/S0893608017301806
