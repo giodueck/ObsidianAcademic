@@ -70,3 +70,47 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 ### Tutor
 - 2016: Identificación y Mapeo de Paleocauces utilizando Imágenes Satelitales de Alta Resolución en la Llanura Costera de la Bahía Samborombón, Este de la Provincia de Buenos Aires, Argentina. https://www.researchgate.net/publication/325827963_IDENTIFICACION_Y_MAPEO_DE_PALEOCAUCES_UTILIZANDO_IMAGENES_SATELITALES_DE_ALTA_RESOLUCION_EN_LA_LLANURA_COSTERA_DE_LA_BAHIA_SAMBOROMBON_ESTE_DE_LA_PROVINCIA_DE_BUENOS_AIRES_ARGENTINA
 
+## Comments on findings
+
+### Sharma 2017
+- Patch-based CNN in contrast with:
+    - pixel-based conventional NN
+    - pixel-based CNN
+    - patch-based conventional NN
+
+### Xu 2017
+- CNN approach on multisource data tested against:
+    - SVM
+    - ELM
+    - state-of-the-art CNN, CNN-PPF
+
+### Maggiori 2016-0
+- 2 step training approach using large amounts of OSM data and a small amount of manuallt labeled reference.
+- Produce fine-grained calssification maps, as CNNs tend to hamper fineness of output as consequence of taking in a large context.
+***Add research question around training data?***
+
+### Castelluccion 2015
+- Training from scratch with limited data not always a good idea
+- Adapts pretrained CNN to target task, demonstrates results with new dataset
+***Add research question around training data?***
+
+### Wu 2022
+- Cross-channel reconstruction tested against conventional CNN for multimodal RS imagery
+
+### Zhong 2016
+- SatCNN as a model made for RS data as opposed to other CNNs made primarily for natural scene classification
+
+### Tun 2020
+- Generally shows effectiveness of CNNs for classifying RS images
+- Multi-classification of images
+
+### Liu 2019
+- Augmentation of CNN with handcrafted features for better discrimitative power
+
+### Pritt 2018
+- Ensamble of CNNs for classifies objects and facilities in high resolution multispectral RS images
+- Post-processing NN that combine predictions from CNNs with satellite metadata
+
+### Sevo 2016
+- 2 stage training approach which outperforms feature based approaches and other network solutions
+- Automated object detection CNN

@@ -8,6 +8,7 @@
 
 ## Estado del arte
 - [[Tesis - Estado del arte - Metodologia]]
+- [[Tesis - Estado del arte - Planilla]]
 
 ---
 #MOC
