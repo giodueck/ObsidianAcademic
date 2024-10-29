@@ -97,6 +97,14 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 ### Wu 2022
 - Cross-channel reconstruction tested against conventional CNN for multimodal RS imagery
 
+### Rezaee 2018
+- Wetlands classification using CNN
+- 16% improvement compared to RF
+
+### Nogueira 2017
+- Explore exploiting existing CNNs to circumvent low amount of training data
+- Best results between full training, fine tuning and using as feature extractors was fine tuning
+
 ### Zhong 2016
 - SatCNN as a model made for RS data as opposed to other CNNs made primarily for natural scene classification
 
