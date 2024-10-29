@@ -108,12 +108,20 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 ### Zhong 2016
 - SatCNN as a model made for RS data as opposed to other CNNs made primarily for natural scene classification
 
+### Lankvist 2016
+- CNN built with relatively small output and filter count
+- Stability achieved through 4 parallel CNNs with differing context sizes
+
 ### Tun 2020
 - Generally shows effectiveness of CNNs for classifying RS images
 - Multi-classification of images
 
 ### Liu 2019
 - Augmentation of CNN with handcrafted features for better discrimitative power
+
+### Maggiori 2016-1
+- CNN with only convolution and deconvolution layers
+- Lower execution time and enhanced learning process
 
 ### Pritt 2018
 - Ensamble of CNNs for classifies objects and facilities in high resolution multispectral RS images
