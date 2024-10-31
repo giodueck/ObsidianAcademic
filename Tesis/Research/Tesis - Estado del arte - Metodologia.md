@@ -127,6 +127,27 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 - Ensamble of CNNs for classifies objects and facilities in high resolution multispectral RS images
 - Post-processing NN that combine predictions from CNNs with satellite metadata
 
+### Laban 2017
+- Two step training approach to select least image scale with high accuracy to improve performance
+
+### Iglovikov 2017
+- No relevant info in conclusions
+
 ### Sevo 2016
 - 2 stage training approach which outperforms feature based approaches and other network solutions
 - Automated object detection CNN
+
+### Zhu 2015
+- Combined deep CNN layers produce features which allow detection without rotation of objects
+- Performance improvement from not needing to go through the rotate-and-detect pipeline
+
+### Khryashchev 2018
+- No relevant info in conclusions
+
+### Amato 2023
+
+
+### Luengo 2016
+
+
+

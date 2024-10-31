@@ -126,7 +126,7 @@
 - Year: 2017
 - Abstract: With dramatically increasing of very resolution of satellite imaging sensors and the daily increasing of remote sensing databases, image classification has been gaining prominence in remote sensing applications. Convolutional neural networks (CNNs) techniques have already been outperforming other classification approaches in various domains. In this paper, we propose an enhance classification of satellite image using CNNs. high information content of satellite images alongside high computational calculations needed by CNNs, that make performance issues very crucial. The enhancement process is based on an efficient selection of adequate image scales that perform respectively, high classification accuracy with least computational burdens. We evaluate the proposed method on three state-of-the-art datasets: UC Merced Land Use Dataset, WHU-RS Dataset and Brazilian Coffee Scenes Dataset. The proposed method leads to a performance enhancement, as opposed to using original scales directly.
 - Keywords: 
-- Conclusions: 
+- Conclusions: Scale selection in satellite image processing is an important and challenging step for remote sensing applications, especially classification. We have proposed an adequate scale selection method to be used in feeding convolutional neural network architectures. The method selects only the least scale that can give high accuracy. This is done by a two-step training approach. First step, training CNNs Models with elected scales in a very short time. Second step, the least scale with the highest accuracy is selected to fully train CNNs architecture. Experiments showed that our proposed method has enhanced the performance relative to using the original scale with appropriate accuracy. In the future, we would like to embed the adaptive scale mechanism inside the CNN architecture itself rather than using an external layer.
 
 ### Title: Satellite Imagery Feature Detection using Deep Convolutional Neural Network: A Kaggle Competition
 - Link: https://arxiv.org/abs/1706.06169
@@ -135,7 +135,7 @@
 - Year: 2017
 - Abstract: This paper describes our approach to the DSTL Satellite Imagery Feature Detection challenge run by Kaggle. The primary goal of this challenge is accurate semantic segmentation of different classes in satellite imagery. Our approach is based on an adaptation of fully convolutional neural network for multispectral data processing. In addition, we defined several modifications to the training objective and overall training pipeline, e.g. boundary effect estimation, also we discuss usage of data augmentation strategies and reflectance indices. Our solution scored third place out of 419 entries. Its accuracy is comparable to the first two places, but unlike those solutions, it doesn't rely on complex ensembling techniques and thus can be easily scaled for deployment in production as a part of automatic feature labeling systems for satellite imagery analysis.
 - Keywords: 
-- Conclusions: 
+- Conclusions: In conclusion, we would like to add that successful approach to above-mentioned problems allows to significantly improve the quality of final models. Our approach includes several steps, such as the adaptation of fully convolutional network to multispectral satellite images with joint training objective and analysis of boundary effects, reflectance indices.
 
 ### Title: Convolutional Neural Network Based Automatic Object Detection on Aerial Images
 - Link: https://ieeexplore.ieee.org/abstract/document/7447728
@@ -153,7 +153,7 @@
 - Year: 2015
 - Abstract: Detecting objects in aerial images is challenged by variance of object colors, aspect ratios, cluttered backgrounds, and in particular, undetermined orientations. In this paper, we propose to use Deep Convolutional Neural Network (DCNN) features from combined layers to perform orientation robust aerial object detection. We explore the inherent characteristics of DC-NN as well as relate the extracted features to the principle of disentangling feature learning. An image segmentation based approach is used to localize ROIs of various aspect ratios, and ROIs are further classified into positives or negatives using an SVM classifier trained on DCNN features. With experiments on two datasets collected from Google Earth, we demonstrate that the proposed aerial object detection approach is simple but effective.
 - Keywords: Aerial Object Detection, Orientation Robust, Deep Convolutional Neural Network
-- Conclusions: 
+- Conclusions: The experimental results show that the DCNN features from combined layers are competitive when performing orientation robust aerial object detection. With the features, one does not need to perform a rotate-and-detect pipeline, which considerably reduces the computational complexity. We also show that the t-SNE analysis and visualization can be used to find proper DCNN layers. In the future, we plan to detect more kinds of aerial objects with the proposed features and pipeline. To drive the development of aerial image detection research, we will make the aerial object datasets publicly available.
 
 ### Title: Optimization Of Convolutional Neural Network For Object Recognition On Satellite Images
 - Link: https://ieeexplore.ieee.org/abstract/document/8457056
