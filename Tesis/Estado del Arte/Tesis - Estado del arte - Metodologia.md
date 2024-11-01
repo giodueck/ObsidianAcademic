@@ -39,6 +39,7 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 
 1. ¿Qué proyectos se están llevando adelante para clasificar y caracterizar imágenes satelitales usando redes neuronales convolucionales?
 2. ¿Cuáles son las ventajas y/o desventajas de la clasificación y caracterización de imágenes satelitales usando redes neuronales convolucionales en comparación con las alternativas?
+3. ¿Qué soluciones existen para abordar la falta de datos de entrenamiento para las redes neuronales convolucionales?
 
 ## Findings
 [[Tesis - Estado del arte - Planilla]]
@@ -145,9 +146,10 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 - No relevant info in conclusions
 
 ### Amato 2023
-
+- Tuning pre-trained SqueezeNet CNN with handpicked images
+- High accuracy but succeptible to clouds and weather causing false positives
 
 ### Luengo 2016
-
+- Use of CNN and high-resolution satellite imagery to detect paleochannels and abandoned meanders
 
 
