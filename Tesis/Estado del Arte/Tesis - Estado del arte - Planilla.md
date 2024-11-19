@@ -2,6 +2,10 @@
 ---
 # Tesis - Estado del arte - Planilla
 
+[[Tesis - Estado del arte - Tabla PI 1]]
+[[Tesis - Estado del arte - Tabla PI 2]]
+[[Tesis - Estado del arte - Tabla PI 3]]
+
 ### Title: A patch-based convolutional neural network for remote sensing image classification
 - Link: https://www.sciencedirect.com/science/article/abs/pii/S0893608017301806
 - DOI: https://doi.org/10.1016/j.neunet.2017.07.017

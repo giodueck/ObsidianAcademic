@@ -88,12 +88,10 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 ### Maggiori 2016-0
 - 2 step training approach using large amounts of OSM data and a small amount of manuallt labeled reference.
 - Produce fine-grained calssification maps, as CNNs tend to hamper fineness of output as consequence of taking in a large context.
-***Add research question around training data?***
 
 ### Castelluccion 2015
 - Training from scratch with limited data not always a good idea
 - Adapts pretrained CNN to target task, demonstrates results with new dataset
-***Add research question around training data?***
 
 ### Wu 2022
 - Cross-channel reconstruction tested against conventional CNN for multimodal RS imagery
@@ -151,5 +149,3 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 
 ### Luengo 2016
 - Use of CNN and high-resolution satellite imagery to detect paleochannels and abandoned meanders
-
-

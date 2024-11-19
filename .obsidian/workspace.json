@@ -13,10 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Complementos de Informatica/SLR - Introduccion.md",
+                "file": "Tesis/Estado del Arte/Tesis - Estado del arte - Metodologia.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Tesis - Estado del arte - Metodologia"
+            }
+          },
+          {
+            "id": "7efd14f4b53112b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tesis/Estado del Arte/Tesis - Estado del arte - Planilla.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tesis - Estado del arte - Planilla"
             }
           }
         ]
@@ -40,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -80,7 +102,9 @@
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -104,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Complementos de Informatica/SLR - Introduccion.md",
+                "file": "Tesis/Estado del Arte/Tesis - Estado del arte - Metodologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +136,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tesis - Estado del arte - Metodologia"
             }
           },
           {
@@ -120,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -132,7 +160,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -154,16 +184,19 @@
   },
   "active": "8bb17e1f8b49cf74",
   "lastOpenFiles": [
+    "Tesis/Estado del Arte/Tesis - Estado del arte - Planilla.md",
+    "Tesis/Estado del Arte/Tesis - Estado del arte - Metodologia.md",
+    "Tesis/Research/Tesis - Research MOC.md",
+    "Tesis/Tesis MOC.md",
+    "Index.md",
+    "Classes/Complementos de Informatica/SLR - Introduccion.md",
     "Classes/Complementos de Informatica/Complementos de Informatica MOC.md",
     "Classes/Classes MOC.md",
-    "Index.md",
     "Tesis/Research/Tesis - Estado del arte - Metodologia.md",
     "README.md",
     "Tesis/Research/Tesis - Estado del arte - Metodologia.md~",
-    "Tesis/Research/Tesis - Research MOC.md",
     "Tesis/Research/Tesis - Metodologia.md",
     "Tesis/Research/Tesis - Research MOC.md~",
-    "Tesis/Tesis MOC.md",
     "Tesis/Research/Tesis - CNN.md",
     "Tesis/Research/Tesis - CNN.md~",
     "Tesis/Tesis - Primera presentacion.md",
@@ -178,11 +211,9 @@
     "Classes/Informatica 3/Informatica 3 MOC.md",
     "Classes/Complementos de Informatica/SLR - Metodos de investigacion.md",
     "Classes/Compiladores/Compiladores MOC.md",
-    "Classes/Complementos de Informatica/SLR - Introduccion.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/SolarWinds (2020).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Consecuencias.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/Axie Infinity (2022).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Teoria y Aplicacion de la Informatica 2",
     "img/Bézier_3_big.gif",

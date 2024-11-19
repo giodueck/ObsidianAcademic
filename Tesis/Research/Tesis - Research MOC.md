@@ -6,9 +6,5 @@
 - [[Tesis - CNN]]
 - [[Tesis - CNN Aplicaciones en analisis de imagenes satelitales]]
 
-## Estado del arte
-- [[Tesis - Estado del arte - Metodologia]]
-- [[Tesis - Estado del arte - Planilla]]
-
 ---
 #MOC
