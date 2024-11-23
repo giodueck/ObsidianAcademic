@@ -100,6 +100,7 @@ remote sensing https://www.sciencedirect.com/science/article/pii/S15698432230039
 
 ### Wu 2022
 - Cross-channel reconstruction tested against conventional CNN for multimodal RS imagery
+*
 
 ### Rezaee 2018
 - Wetlands classification using CNN
@@ -112,41 +113,49 @@ remote sensing https://www.sciencedirect.com/science/article/pii/S15698432230039
 ### Zhong 2016
 - SatCNN as a model made for RS data as opposed to other CNNs made primarily for natural scene classification
 
-### Lankvist 2016
+### Langkvist 2016
 - CNN built with relatively small output and filter count
 - Stability achieved through 4 parallel CNNs with differing context sizes
 
 ### Tun 2020
 - Generally shows effectiveness of CNNs for classifying RS images
 - Multi-classification of images
+*
 
 ### Liu 2019
 - Augmentation of CNN with handcrafted features for better discrimitative power
+*
 
 ### Maggiori 2016-1
 - CNN with only convolution and deconvolution layers
 - Lower execution time and enhanced learning process
+*
 
 ### Pritt 2018
-- Ensamble of CNNs for classifies objects and facilities in high resolution multispectral RS images
+- Ensamble of CNNs that classifies objects and facilities in high resolution multispectral RS images
 - Post-processing NN that combine predictions from CNNs with satellite metadata
 
 ### Laban 2017
 - Two step training approach to select least image scale with high accuracy to improve performance
+*
 
 ### Iglovikov 2017
 - No relevant info in conclusions
+*
 
 ### Sevo 2016
 - 2 stage training approach which outperforms feature based approaches and other network solutions
 - Automated object detection CNN
+*
 
 ### Zhu 2015
 - Combined deep CNN layers produce features which allow detection without rotation of objects
 - Performance improvement from not needing to go through the rotate-and-detect pipeline
+*
 
 ### Khryashchev 2018
 - No relevant info in conclusions
+*
 
 ### Amato 2023
 - Tuning pre-trained SqueezeNet CNN with handpicked images
@@ -154,6 +163,7 @@ remote sensing https://www.sciencedirect.com/science/article/pii/S15698432230039
 
 ### Luengo 2016
 - Use of CNN and high-resolution satellite imagery to detect paleochannels and abandoned meanders
+*
 
 ### Safonova 2023
 - Review of papers in RS and DL space and their approaches to the small data problem
