@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis/Estado del Arte/Tesis - Estado del arte - Planilla.md",
-                "mode": "source",
+                "file": "Tesis/Estado del Arte/Tesis - Estado del arte - Tabla PI 3.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tesis - Estado del arte - Planilla"
+              "title": "Tesis - Estado del arte - Tabla PI 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,8 +183,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bb17e1f8b49cf74",
+  "active": "7efd14f4b53112b6",
   "lastOpenFiles": [
+    "Tesis/Estado del Arte/Tesis - Estado del arte - Tabla PI 3.md~",
     "Tesis/Estado del Arte/Tesis - Estado del arte - Planilla.md",
     "Tesis/Estado del Arte/Tesis - Estado del arte - Metodologia.md",
     "Tesis/Research/Tesis - Research MOC.md",
@@ -213,7 +215,6 @@
     "Classes/Compiladores/Compiladores MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/SolarWinds (2020).md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Consecuencias.md",
-    "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos/APTs - Eventos MOC.md",
     "Classes/Teoria y Aplicacion de la Informatica 2/APTs - Eventos",
     "Classes/Teoria y Aplicacion de la Informatica 2",
     "img/Bézier_3_big.gif",

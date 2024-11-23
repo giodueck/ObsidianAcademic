@@ -10,9 +10,11 @@
 Keywords       | Synonyms
 ---------------|------------------
 Neural network | Convolutional neural network
+               | Deep learning
 Remote sensing | Satellite imagery
 Classification |
 Detection      |
+Lack of data   | Small data
 
 Search engines:
 - Google Scholar
@@ -68,6 +70,9 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
     - 2015: Orientation robust object detection in aerial images using deep convolutional neural network https://ieeexplore.ieee.org/abstract/document/7351502
     - 2018: Optimization Of Convolutional Neural Network For Object Recognition On Satellite Images https://ieeexplore.ieee.org/abstract/document/8457056
     - 2023: A Deep Convolutional Neural Network for Detecting Volcanic Thermal Anomalies from Satellite Images https://www.mdpi.com/2072-4292/15/15/3718
+- deep learning remote sensing small data
+	- 2023: Ten deep learning techniques to address small data problems with
+remote sensing https://www.sciencedirect.com/science/article/pii/S156984322300393X
 ### Tutor
 - 2016: Identificación y Mapeo de Paleocauces utilizando Imágenes Satelitales de Alta Resolución en la Llanura Costera de la Bahía Samborombón, Este de la Provincia de Buenos Aires, Argentina. https://www.researchgate.net/publication/325827963_IDENTIFICACION_Y_MAPEO_DE_PALEOCAUCES_UTILIZANDO_IMAGENES_SATELITALES_DE_ALTA_RESOLUCION_EN_LA_LLANURA_COSTERA_DE_LA_BAHIA_SAMBOROMBON_ESTE_DE_LA_PROVINCIA_DE_BUENOS_AIRES_ARGENTINA
 
@@ -89,7 +94,7 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 - 2 step training approach using large amounts of OSM data and a small amount of manuallt labeled reference.
 - Produce fine-grained calssification maps, as CNNs tend to hamper fineness of output as consequence of taking in a large context.
 
-### Castelluccion 2015
+### Castelluccio 2015
 - Training from scratch with limited data not always a good idea
 - Adapts pretrained CNN to target task, demonstrates results with new dataset
 
@@ -149,3 +154,7 @@ de redes neuronales convolucionales. Con este fin en mente, se plantean las sigu
 
 ### Luengo 2016
 - Use of CNN and high-resolution satellite imagery to detect paleochannels and abandoned meanders
+
+### Safonova 2023
+- Review of papers in RS and DL space and their approaches to the small data problem
+- Additional techniques to those of the papers, including data augmentation and training approach solutions
