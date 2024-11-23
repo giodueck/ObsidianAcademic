@@ -5,12 +5,12 @@
 3. ¿Qué soluciones existen para abordar la falta de datos de entrenamiento para las redes neuronales convolucionales?
 
 ## Proyectos relevantes
+Safonova 2023
 Maggiori 2016-0
 Castelluccio 2015
 Nogueira 2017
 Zhong 2016
 Amato 2023
-Safonova 2023
 
 ## Tabla
 
