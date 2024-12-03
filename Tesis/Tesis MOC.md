@@ -18,5 +18,8 @@
 - [[Tesis - Estado del arte - Tabla PI 2]]
 - [[Tesis - Estado del arte - Tabla PI 3]]
 
+## Solution
+- [[Tesis - Propuesta de solucion]]
+
 ---
 #MOC
