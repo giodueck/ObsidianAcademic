@@ -73,5 +73,15 @@ The implementation of the classification model will be done in Python, as there 
 to support fast prototyping and development of classifier models.
 
 ## Training and validation
+The training dataset will be partitioned into three sets, the training set, the validation set and the testing set. They
+will be roughly 70%, 20% and 10% of the total dataset and be used for only for their distinct purposes: no part of the
+testing and validation sets may be used to train the model, as that would bias the results and show too optimistic
+results.
 
+## Model and solution proposition
+The classification model proposed will be a Convolutional Neural Network, using techniques already explored in this
+area with this new data to attempt to specialize in classification of the terrain in the Paraguayan Chaco region.
+The model will assign one of several labels to pixels in the dataset, e.g. water, agriculture, vegetation, etc.
+The main approach will involve supervised learning, using various techniques to reduce the amount of training data
+needed while keeping high accuracy, explored in previous sections.
 
