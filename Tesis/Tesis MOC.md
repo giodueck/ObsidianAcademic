@@ -21,5 +21,9 @@
 ## Solution
 - [[Tesis - Propuesta de solucion]]
 
+ToDo:
+- [x] Referenciar cuadros 1-3
+- [x] Agregar imagenes al marco conceptual
+
 ---
 #MOC
